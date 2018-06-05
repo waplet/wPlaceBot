@@ -1,0 +1,21 @@
+{
+  "name": "wplacebot",
+  "version": "1.0.0",
+  "description": "Telegram bot which returns an image of a random place",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "random",
+    "place",
+    "generator"
+  ],
+  "author": "waplet",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.21.2"
+  }
+}
