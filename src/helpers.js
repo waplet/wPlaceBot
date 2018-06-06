@@ -35,8 +35,27 @@ function getRandomPlace(places) {
     return places[randomPlaceId];
 }
 
+function replyLocation(ctx) {
+    let currentPlaces = places;
+
+    if (typeof ctx.message.location !== "undefined") {
+        currentPlaces = filterClosestPlaces(ctx.message.location);
+    }
+
+    /** @var {{title: String, lat: Number, lng: Number}} */
+    let randomPlace = getRandomPlace(currentPlaces);
+
+    ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
+*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}
+            `, {
+        reply_markup: {
+            hide_keyboard: true
+        }
+    }).then(() => {
+        return ctx.replyWithLocation(randomPlace.lat, randomPlace.lng)
+    });
+}
+
 module.exports = {
-    filterClosestPlaces,
-    getRandomPlace,
-    places
+    replyLocation,
 };

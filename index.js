@@ -1,4 +1,4 @@
-const { filterClosestPlaces, getRandomPlace, places } = require('./src/helpers');
+const { replyLocation } = require('./src/helpers');
 
 const Telegraf = require('telegraf');
 
@@ -7,15 +7,8 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 bot.start((ctx) => {
     return ctx.reply('Working');
 });
-bot.command('/getplace', (ctx) => {
-    /** @var {{title: String, lat: Number, lng: Number}} */
-    let randomPlace = getRandomPlace(places);
-    ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
-*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}
-    `).then(() => {
-        return ctx.replyWithLocation(randomPlace.lat, randomPlace.lng)
-    });
-});
+
+bot.command('/getplace', replyLocation);
 
 bot.command('/getplacel', (ctx) => {
     let option = {
@@ -29,26 +22,9 @@ bot.command('/getplacel', (ctx) => {
         }
     };
 
-    ctx.replyWithMarkdown('Provide your location', option)
-    .then(() => {
-        bot.on("location", (ctx) => {
-            let places = filterClosestPlaces(ctx.message.location);
-
-            /** @var {{title: String, lat: Number, lng: Number}} */
-            let randomPlace = getRandomPlace(places);
-
-            ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
-*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}
-            `, {
-                reply_markup: {
-                    hide_keyboard: true
-                }
-            }).then(() => {
-                return ctx.replyWithLocation(randomPlace.lat, randomPlace.lng)
-            });
-        })
-    });
-
+    ctx.replyWithMarkdown('Provide your location', option);
 });
+
+bot.on("location", replyLocation);
 
 bot.startPolling();
