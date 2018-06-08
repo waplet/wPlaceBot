@@ -20,8 +20,8 @@ function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
         Math.sin(dLon / 2) * Math.sin(dLon / 2)
     ;
     let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    let d = R * c; // Distance in km
-    return d;
+     // Distance in km
+    return R * c;
 }
 
 function deg2rad(deg) {
@@ -45,7 +45,7 @@ function replyLocation(ctx) {
     /** @var {{title: String, lat: Number, lng: Number}} */
     let randomPlace = getRandomPlace(currentPlaces);
 
-    ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
+    return ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
 *Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}`, {
         reply_markup: {
             hide_keyboard: true

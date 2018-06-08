@@ -15,28 +15,37 @@ bot.command('/getplace', (ctx) => {
         return;
     }
 
-    replyLocation(ctx);
+    return replyLocation(ctx);
 });
 
-bot.command('/getplacel', (ctx) => {
-    if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
-        return;
-    }
+/**
+ * Create weird behaviour of every location received it will respond, that's not needed
+ */
+// bot.command('/getplacel', (ctx) => {
+//     if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
+//         return;
+//     }
+//
+//     let option = {
+//         "parse_mode": "Markdown",
+//         "reply_markup": {
+//             "one_time_keyboard": true,
+//             "keyboard": [[{
+//                 text: "Send my location",
+//                 request_location: true
+//             }]]
+//         }
+//     };
+//
+//     return ctx.replyWithMarkdown('Provide your location', option);
+// });
 
-    let option = {
-        "parse_mode": "Markdown",
-        "reply_markup": {
-            "one_time_keyboard": true,
-            "keyboard": [[{
-                text: "Send my location",
-                request_location: true
-            }], ["Cancel"]]
-        }
-    };
-
-    ctx.replyWithMarkdown('Provide your location', option);
-});
-
-bot.on("location", replyLocation);
+// bot.on("location", ctx => {
+//     if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
+//         return;
+//     }
+//
+//     return replyLocation(ctx);
+// });
 
 bot.startPolling();
