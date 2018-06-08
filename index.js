@@ -1,26 +1,42 @@
-const Telegraf = require('telegraf');
-
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const CHAT_ID = process.env.CHAT_ID;
+const { replyLocation } = require('./src/helpers');
+
+const Telegraf = require('telegraf');
 
 const bot = new Telegraf(BOT_TOKEN);
-/** @var {Array} */
-const places = require('./resources/places');
+
+bot.start((ctx) => {
+    return ctx.reply('Working');
+});
 
 bot.command('/getplace', (ctx) => {
     if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
         return;
     }
 
-    let countPlaces = places.length;
-    let randomPlaceId = Math.floor(Math.random() * countPlaces);
-
-    /** @var {{title: String, lat: Number, lng: Number}} */
-    let randomPlace = places[randomPlaceId];
-    ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
-*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}
-    `).then(() => {
-        return ctx.replyWithLocation(randomPlace.lat, randomPlace.lng)
-    });
+    replyLocation(ctx);
 });
+
+bot.command('/getplacel', (ctx) => {
+    if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
+        return;
+    }
+
+    let option = {
+        "parse_mode": "Markdown",
+        "reply_markup": {
+            "one_time_keyboard": true,
+            "keyboard": [[{
+                text: "Send my location",
+                request_location: true
+            }], ["Cancel"]]
+        }
+    };
+
+    ctx.replyWithMarkdown('Provide your location', option);
+});
+
+bot.on("location", replyLocation);
+
 bot.startPolling();
