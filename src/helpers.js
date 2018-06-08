@@ -46,8 +46,7 @@ function replyLocation(ctx) {
     let randomPlace = getRandomPlace(currentPlaces);
 
     ctx.replyWithMarkdown(`*Vieta:* ${randomPlace.title}
-*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}
-            `, {
+*Lokācija:* ${randomPlace.lat}, ${randomPlace.lng}`, {
         reply_markup: {
             hide_keyboard: true
         }
