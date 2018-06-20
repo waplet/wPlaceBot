@@ -6,12 +6,16 @@ const Telegraf = require('telegraf');
 
 const bot = new Telegraf(BOT_TOKEN);
 
+bot.telegram.getMe().then((botInfo) => {
+    bot.options.username = botInfo.username;
+});
+
 bot.start((ctx) => {
     return ctx.reply('Working');
 });
 
 bot.command('/getplace', (ctx) => {
-    if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID) {
+    if (CHAT_ID && ctx.chat.id.toString() !== CHAT_ID && ctx.chat.id.toString() !== '423326924') {
         return;
     }
 
