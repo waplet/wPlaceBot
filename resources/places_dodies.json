@@ -1,0 +1,357 @@
+[
+  {
+    "title": "Riekstukalna skatu tornis",
+    "lat": 56.774971,
+    "lon": 24.401681
+  },
+  {
+    "title": "Kaņiera pilskalna tornis",
+    "lat": 56.9915415,
+    "lon": 23.4336358
+  },
+  {
+    "title": "Kaņiera ezera putnu tornis",
+    "lat": 57.000673,
+    "lon": 23.471067
+  },
+  {
+    "title": "Dunduru pļavu tornis",
+    "lat": 56.8335449,
+    "lon": 23.4011805
+  },
+  {
+    "title": "Daugavgrīvas tornis",
+    "lat": 57.039653,
+    "lon": 24.0131503
+  },
+  {
+    "title": "Cenas tīreļa tornis II",
+    "lat": 56.8527813,
+    "lon": 23.8253741
+  },
+  {
+    "title": "Cenas tīreļa tornis I",
+    "lat": 56.8621035,
+    "lon": 23.7940049
+  },
+  {
+    "title": "Bumbu kalna tornis",
+    "lat": 57.0039713,
+    "lon": 24.0201817
+  },
+  {
+    "title": "Ogres zilo kalnu tornis",
+    "lat": 56.83409,
+    "lon": 24.56513
+  },
+  {
+    "title": "Ložmetējkalns",
+    "lat": 56.86587,
+    "lon": 23.66051
+  },
+  {
+    "title": "Ķengaraga putnu tornis",
+    "lat": 56.89936,
+    "lon": 24.19276
+  },
+  {
+    "title": "Slokas ezera putnu tornis",
+    "lat": 56.957612319,
+    "lon": 23.547032475
+  },
+  {
+    "title": "Kangaru lieguma dabas taka",
+    "lat": 56.919727,
+    "lon": 24.729908
+  },
+  {
+    "title": "Līdumu karjera taka",
+    "lat": 56.784567,
+    "lon": 23.8749166
+  },
+  {
+    "title": "Pilssalas taka",
+    "lat": 56.66048,
+    "lon": 23.72912
+  },
+  {
+    "title": "Lielā Ķemeru tīreļa laipa",
+    "lat": 56.91659,
+    "lon": 23.46516
+  },
+  {
+    "title": "Katlapiezis Sigulda",
+    "lat": 57.16504,
+    "lon": 24.84209
+  },
+  {
+    "title": "Kaņiera niedrāja taka",
+    "lat": 56.99764,
+    "lon": 23.4761
+  },
+  {
+    "title": "Kaņiera pilskalna taka",
+    "lat": 56.99191,
+    "lon": 23.42585
+  },
+  {
+    "title": "Jušu dabas taka",
+    "lat": 57.16621,
+    "lon": 24.85332
+  },
+  {
+    "title": "Daugavgrīvas mols",
+    "lat": 57.04642,
+    "lon": 24.02154
+  },
+  {
+    "title": "Cenas tīreļa laipa",
+    "lat": 56.862713,
+    "lon": 23.78864
+  },
+  {
+    "title": "Saulrieta taka",
+    "lat": 57.23362,
+    "lon": 24.39314
+  },
+  {
+    "title": "Ragakāpas dabas taka",
+    "lat": 56.995699,
+    "lon": 23.919282
+  },
+  {
+    "title": "Pēteralas Raganu katla taka",
+    "lat": 57.17008,
+    "lon": 24.87426
+  },
+  {
+    "title": "Murjāņi Sigulda",
+    "lat": 57.17594,
+    "lon": 24.84729
+  },
+  {
+    "title": "Mežmuižas avoti",
+    "lat": 57.1004198,
+    "lon": 24.8022831
+  },
+  {
+    "title": "Melnalkšņu dumbrāja taka",
+    "lat": 56.9527769819,
+    "lon": 23.5116702318
+  },
+  {
+    "title": "Lāčupes dendroloģiskā taka",
+    "lat": 57.0464,
+    "lon": 23.35242
+  },
+  {
+    "title": "Kupskalnu dabas taka",
+    "lat": 56.99134,
+    "lon": 23.52379
+  },
+  {
+    "title": "Kubeseles dabas taka",
+    "lat": 57.16365,
+    "lon": 24.76881
+  },
+  {
+    "title": "Zaķumuižas dabas taka",
+    "lat": 56.96952,
+    "lon": 24.48797
+  },
+  {
+    "title": "Vikmestes taka",
+    "lat": 57.1790199,
+    "lon": 24.8227603
+  },
+  {
+    "title": "Valguma dabas gleznu taka",
+    "lat": 56.99007,
+    "lon": 23.31532
+  },
+  {
+    "title": "Valguma baskāju taka",
+    "lat": 56.98946,
+    "lon": 23.31575
+  },
+  {
+    "title": "Slokas ezera dabas taka",
+    "lat": 56.95731,
+    "lon": 23.54637
+  },
+  {
+    "title": "Sigulda Līgatne",
+    "lat": 57.1706,
+    "lon": 24.8623
+  },
+  {
+    "title": "Sēra dīķu taka",
+    "lat": 56.96515,
+    "lon": 23.46959
+  },
+  {
+    "title": "Ziemassvētku kauju taka",
+    "lat": 56.82956,
+    "lon": 23.70139
+  },
+  {
+    "title": "Atpūtas vieta &#039;Klīves 68.kv. dīķis&#039;",
+    "lat": 56.8094826333143,
+    "lon": 23.6475892636243
+  },
+  {
+    "title": "Atpūtas vieta &#039;Doles sala&#039;",
+    "lat": 56.8657452005153,
+    "lon": 24.2015150845732
+  },
+  {
+    "title": "Atpūtas vieta &#039;Kalnciema skolas taka&#039;",
+    "lat": 56.8086256718253,
+    "lon": 23.6289593949239
+  },
+  {
+    "title": "Atpūtas vieta &#039;Liliju ezers&#039;",
+    "lat": 56.7727628959356,
+    "lon": 24.4121895057699
+  },
+  {
+    "title": "Skolas ceļa atpūtas vieta",
+    "lat": 56.8144699817073,
+    "lon": 23.6598707603098
+  },
+  {
+    "title": "Bramberģes atpūtas vieta",
+    "lat": 56.6355586229134,
+    "lon": 23.5870927604277
+  },
+  {
+    "title": "Stuģu atpūtas vieta",
+    "lat": 56.85629258338329,
+    "lon": 24.752027252162563
+  },
+  {
+    "title": "Jumpravas sēnīte",
+    "lat": 56.73200604314033,
+    "lon": 24.9706316184866
+  },
+  {
+    "title": "Betonkas atpūtas vieta",
+    "lat": 56.756046003210265,
+    "lon": 24.861497002187875
+  },
+  {
+    "title": "Āpšukalna atpūtas vieta",
+    "lat": 56.74650671526076,
+    "lon": 24.85101581470409
+  },
+  {
+    "title": "Garie kalni",
+    "lat": 56.627014764822725,
+    "lon": 23.65212341521312
+  },
+  {
+    "title": "Gaitnieku atpūtas vieta",
+    "lat": 56.72632958554162,
+    "lon": 24.928204990224334
+  },
+  {
+    "title": "Atpūtas vieta pie Ārijas-Jankovski ceļa",
+    "lat": 56.64713285725034,
+    "lon": 23.87520925733802
+  },
+  {
+    "title": "Pieci ceļi",
+    "lat": 56.71048922044683,
+    "lon": 24.506031339138236
+  },
+  {
+    "title": "Sēņotāju māja",
+    "lat": 56.74959319132516,
+    "lon": 24.585716535412356
+  },
+  {
+    "title": "Berlīnes krustojums",
+    "lat": 56.8553154157004,
+    "lon": 24.800810934295768
+  },
+  {
+    "title": "Daugavmalas atpūtas vieta",
+    "lat": 56.631385681364264,
+    "lon": 24.919247042954588
+  },
+  {
+    "title": "Atpūtas vieta pie Gauju ceļa",
+    "lat": 56.66990153588312,
+    "lon": 24.01839697533449
+  },
+  {
+    "title": "Pakuļu ezers",
+    "lat": 56.73721469779863,
+    "lon": 24.521213411671646
+  },
+  {
+    "title": "Kausu ezers",
+    "lat": 56.75002015356018,
+    "lon": 24.511826743025473
+  },
+  {
+    "title": "Daugavmalas atpūtas vieta",
+    "lat": 56.63094784512249,
+    "lon": 24.920194834278714
+  },
+  {
+    "title": "Daugavmalas atpūtas vieta",
+    "lat": 56.632654797497466,
+    "lon": 24.9164643560422
+  },
+  {
+    "title": "Piebalgas",
+    "lat": 56.680621711617874,
+    "lon": 24.431958623942464
+  },
+  {
+    "title": "Atpūtas vieta pie Carnikavas",
+    "lat": 57.133691,
+    "lon": 24.277486
+  },
+  {
+    "title": "Atpūtas vieta ceļā uz Ložmetējkalnu",
+    "lat": 56.864164,
+    "lon": 23.637536
+  },
+  {
+    "title": "Ako piemiņas vieta",
+    "lat": 56.843189,
+    "lon": 24.387388
+  },
+  {
+    "title": "Atpūtas vieta piecu ceļu krustā",
+    "lat": 56.836104,
+    "lon": 23.696597
+  },
+  {
+    "title": "Atpūtas vieta pie Pīļezera",
+    "lat": 57.285527,
+    "lon": 24.894032
+  },
+  {
+    "title": "Salaspils pludmale",
+    "lat": 56.847531,
+    "lon": 24.338808
+  },
+  {
+    "title": "Lejas ezera atpūtas vieta",
+    "lat": 56.784705,
+    "lon": 24.442064
+  },
+  {
+    "title": "Svētes piknika vieta",
+    "lat": 56.6921,
+    "lon": 23.63171
+  },
+  {
+    "title": "Senču svētkalniņa atpūtas vieta",
+    "lat": 56.831173,
+    "lon": 24.403456
+  }
+]
