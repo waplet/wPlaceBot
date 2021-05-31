@@ -1,6 +1,6 @@
 const minDistance = 10;
 /** @var {Array} */
-const places = require('../resources/places_dodies');
+const places = require('../resources/dodies_2021_100km_riga');
 
 function filterClosestPlaces(location) {
     return places.filter((place) => {
