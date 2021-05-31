@@ -1,0 +1,4526 @@
+[
+    {
+      "title": "Durbes ezera tornis",
+      "lon": 21.34394,
+      "lat": 56.59783,
+      "type": "tornis"
+    },
+    {
+      "title": "Kornetu skatu tornis",
+      "lon": 26.939569,
+      "lat": 57.590257,
+      "type": "tornis"
+    },
+    {
+      "title": "Pesapuu",
+      "lon": 26.937395,
+      "lat": 57.72764,
+      "type": "tornis"
+    },
+    {
+      "title": "Dēliņkalna tornis",
+      "lon": 26.9428878,
+      "lat": 57.5429045,
+      "type": "tornis"
+    },
+    {
+      "title": "Alūksnes skatu tornis",
+      "lon": 27.06307,
+      "lat": 57.431246,
+      "type": "tornis"
+    },
+    {
+      "title": "Cieceres ezera skatu tornis",
+      "lon": 22.555098,
+      "lat": 56.656971,
+      "type": "tornis"
+    },
+    {
+      "title": "Sātiņu putnu tornis",
+      "lon": 22.334589,
+      "lat": 56.636941,
+      "type": "tornis"
+    },
+    {
+      "title": "Dzintaru mežaparka skatu tornis",
+      "lon": 23.8178046,
+      "lat": 56.9762514,
+      "type": "tornis"
+    },
+    {
+      "title": "Riekstukalna skatu tornis",
+      "lon": 24.401681,
+      "lat": 56.774971,
+      "type": "tornis"
+    },
+    {
+      "title": "Rauna rest stop and observation tower",
+      "lon": 22.102806,
+      "lat": 58.294119,
+      "type": "tornis"
+    },
+    {
+      "title": "Võnnussaare observation tower",
+      "lon": 23.598189,
+      "lat": 59.002956,
+      "type": "tornis"
+    },
+    {
+      "title": "Saare observation tower",
+      "lon": 23.5706278,
+      "lat": 59.034856,
+      "type": "tornis"
+    },
+    {
+      "title": "Kirimäe observation tower",
+      "lon": 23.661093,
+      "lat": 58.965769,
+      "type": "tornis"
+    },
+    {
+      "title": "Harimäe observation tower",
+      "lon": 26.357564,
+      "lat": 57.983309,
+      "type": "tornis"
+    },
+    {
+      "title": "Rebasemõisa observation tower",
+      "lon": 26.40952,
+      "lat": 57.74322,
+      "type": "tornis"
+    },
+    {
+      "title": "Mäekonnu observation tower",
+      "lon": 26.48995,
+      "lat": 57.73259,
+      "type": "tornis"
+    },
+    {
+      "title": "Rannajõe observation tower",
+      "lon": 23.781156,
+      "lat": 58.815972,
+      "type": "tornis"
+    },
+    {
+      "title": "Kloostri observation tower",
+      "lon": 23.844025,
+      "lat": 58.754186,
+      "type": "tornis"
+    },
+    {
+      "title": "Penijõe observation tower",
+      "lon": 23.803157,
+      "lat": 58.727085,
+      "type": "tornis"
+    },
+    {
+      "title": "Suitsu observation tower",
+      "lon": 23.746928,
+      "lat": 58.723217,
+      "type": "tornis"
+    },
+    {
+      "title": "Keemu observation tower",
+      "lon": 23.674186,
+      "lat": 58.745517,
+      "type": "tornis"
+    },
+    {
+      "title": "Iisaku observation tower",
+      "lon": 27.307054,
+      "lat": 59.107676,
+      "type": "tornis"
+    },
+    {
+      "title": "Aluoja observation platform",
+      "lon": 27.5322806,
+      "lat": 59.4029722,
+      "type": "tornis"
+    },
+    {
+      "title": "Tuletorni observation platform",
+      "lon": 27.12482,
+      "lat": 58.97925,
+      "type": "tornis"
+    },
+    {
+      "title": "Raigastvere observation tower",
+      "lon": 26.658108,
+      "lat": 58.582069,
+      "type": "tornis"
+    },
+    {
+      "title": "Liipsaare observation tower",
+      "lon": 27.310006,
+      "lat": 57.931946,
+      "type": "tornis"
+    },
+    {
+      "title": "Paganamaa observation tower",
+      "lon": 26.837332,
+      "lat": 57.587,
+      "type": "tornis"
+    },
+    {
+      "title": "Tellingumäe observation tower",
+      "lon": 26.328232,
+      "lat": 57.597455,
+      "type": "tornis"
+    },
+    {
+      "title": "Parika järve observation tower",
+      "lon": 25.80945,
+      "lat": 58.481517,
+      "type": "tornis"
+    },
+    {
+      "title": "Pikla coast observation platform",
+      "lon": 24.47212,
+      "lat": 58.10562,
+      "type": "tornis"
+    },
+    {
+      "title": "Pikla ponds bird observation tower",
+      "lon": 24.4758,
+      "lat": 58.1054,
+      "type": "tornis"
+    },
+    {
+      "title": "Loodenina observation tower",
+      "lon": 22.4520861,
+      "lat": 58.2352861,
+      "type": "tornis"
+    },
+    {
+      "title": "Ančupānu tornis",
+      "lon": 27.315228,
+      "lat": 56.53859,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaņiera pilskalna tornis",
+      "lon": 23.4336358,
+      "lat": 56.9915415,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaņiera ezera putnu tornis",
+      "lon": 23.471067,
+      "lat": 57.000673,
+      "type": "tornis"
+    },
+    {
+      "title": "Kamparkalna skatu tornis",
+      "lon": 22.643767,
+      "lat": 57.214432,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaltenes putnu tornis",
+      "lon": 22.909638,
+      "lat": 57.438396,
+      "type": "tornis"
+    },
+    {
+      "title": "Engures ezera Z tornis",
+      "lon": 23.089361,
+      "lat": 57.3178117,
+      "type": "tornis"
+    },
+    {
+      "title": "Engures ezera putnu tornis",
+      "lon": 23.12672,
+      "lat": 57.27163,
+      "type": "tornis"
+    },
+    {
+      "title": "Dvietes skatu platforma",
+      "lon": 26.17743,
+      "lat": 56.06749,
+      "type": "tornis"
+    },
+    {
+      "title": "Dunduru pļavu tornis",
+      "lon": 23.4011805,
+      "lat": 56.8335449,
+      "type": "tornis"
+    },
+    {
+      "title": "Daugavgrīvas tornis",
+      "lon": 24.0131503,
+      "lat": 57.039653,
+      "type": "tornis"
+    },
+    {
+      "title": "Cenas tīreļa tornis II",
+      "lon": 23.8253741,
+      "lat": 56.8527813,
+      "type": "tornis"
+    },
+    {
+      "title": "Cenas tīreļa tornis I",
+      "lon": 23.7940049,
+      "lat": 56.8621035,
+      "type": "tornis"
+    },
+    {
+      "title": "Burtnieku ez. polderu tornis",
+      "lon": 25.2911708,
+      "lat": 57.748807,
+      "type": "tornis"
+    },
+    {
+      "title": "Bumbu kalna tornis",
+      "lon": 24.0201817,
+      "lat": 57.0039713,
+      "type": "tornis"
+    },
+    {
+      "title": "Priedaines skatu tornis",
+      "lon": 27.145689,
+      "lat": 55.892638,
+      "type": "tornis"
+    },
+    {
+      "title": "Papes putnu tornis",
+      "lon": 21.0149,
+      "lat": 56.18742,
+      "type": "tornis"
+    },
+    {
+      "title": "Oleru putnu tornis",
+      "lon": 25.3689027,
+      "lat": 57.8080275,
+      "type": "tornis"
+    },
+    {
+      "title": "Ogres zilo kalnu tornis",
+      "lon": 24.56513,
+      "lat": 56.83409,
+      "type": "tornis"
+    },
+    {
+      "title": "Numernes tornis",
+      "lon": 27.4937687,
+      "lat": 56.8456247,
+      "type": "tornis"
+    },
+    {
+      "title": "Mērsrags - pļavas tornis",
+      "lon": 23.1242854,
+      "lat": 57.3440937,
+      "type": "tornis"
+    },
+    {
+      "title": "Mērsrags - bākas tornis",
+      "lon": 23.1232924,
+      "lat": 57.3655392,
+      "type": "tornis"
+    },
+    {
+      "title": "Lubāna putnu tornis 2",
+      "lon": 26.7678,
+      "lat": 56.71503,
+      "type": "tornis"
+    },
+    {
+      "title": "Lubāna putnu tornis",
+      "lon": 26.82157,
+      "lat": 56.79045,
+      "type": "tornis"
+    },
+    {
+      "title": "Ložmetējkalns",
+      "lon": 23.66051,
+      "lat": 56.86587,
+      "type": "tornis"
+    },
+    {
+      "title": "Liepājas ez. Zirgu salas (Golodova) tornis",
+      "lon": 21.0453027,
+      "lat": 56.5119719,
+      "type": "tornis"
+    },
+    {
+      "title": "Liepājas ez. taka un tornis (Tisē iela)",
+      "lon": 21.0244576,
+      "lat": 56.494377,
+      "type": "tornis"
+    },
+    {
+      "title": "Lielais liepu kalns ar skatu torni",
+      "lon": 27.6547405,
+      "lat": 56.270791,
+      "type": "tornis"
+    },
+    {
+      "title": "Kuivižu putnu tornis",
+      "lon": 24.335983,
+      "lat": 57.825652,
+      "type": "tornis"
+    },
+    {
+      "title": "Krustkalnu skatu tornis",
+      "lon": 26.1414,
+      "lat": 56.7306,
+      "type": "tornis"
+    },
+    {
+      "title": "Kristakrūga tornis",
+      "lon": 26.5676943,
+      "lat": 56.5389668,
+      "type": "tornis"
+    },
+    {
+      "title": "Kolkas putnu tornis",
+      "lon": 22.592021227,
+      "lat": 57.757802104,
+      "type": "tornis"
+    },
+    {
+      "title": "Ķengaraga putnu tornis",
+      "lon": 24.19276,
+      "lat": 56.89936,
+      "type": "tornis"
+    },
+    {
+      "title": "Zilo kalnu kraujas tornis",
+      "lon": 22.27717,
+      "lat": 57.62435,
+      "type": "tornis"
+    },
+    {
+      "title": "Ziemeļgaujas skatu tornis",
+      "lon": 26.200806,
+      "lat": 57.664389,
+      "type": "tornis"
+    },
+    {
+      "title": "Ūdru kalna skatu tornis",
+      "lon": 22.216038,
+      "lat": 57.21099,
+      "type": "tornis"
+    },
+    {
+      "title": "Tolkāja tornis",
+      "lon": 26.45573,
+      "lat": 56.64875,
+      "type": "tornis"
+    },
+    {
+      "title": "Slokas ezera putnu tornis",
+      "lon": 23.547032475,
+      "lat": 56.957612319,
+      "type": "tornis"
+    },
+    {
+      "title": "Sedas purva tornis 2",
+      "lon": 25.7603254,
+      "lat": 57.6831054,
+      "type": "tornis"
+    },
+    {
+      "title": "Sedas purva tornis",
+      "lon": 25.7185,
+      "lat": 57.71,
+      "type": "tornis"
+    },
+    {
+      "title": "Ormaņkalna tornis",
+      "lon": 25.532528,
+      "lat": 56.260417,
+      "type": "tornis"
+    },
+    {
+      "title": "Vasargelišķu skatu tornis",
+      "lon": 26.8150332,
+      "lat": 55.9144558,
+      "type": "tornis"
+    },
+    {
+      "title": "Pauguri",
+      "lon": 26.93948,
+      "lat": 57.599278,
+      "type": "pikniks"
+    },
+    {
+      "title": "Zvirgzdes kāpa",
+      "lon": 24.48121,
+      "lat": 56.65969,
+      "type": "pikniks"
+    },
+    {
+      "title": "Durbes ezers",
+      "lon": 21.3421,
+      "lat": 56.5972,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaitras ezers",
+      "lon": 27.651863,
+      "lat": 56.0655,
+      "type": "pikniks"
+    },
+    {
+      "title": "Skaņaiskalns",
+      "lon": 24.996772,
+      "lat": 57.8739561,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Zaķu pļava'",
+      "lon": 23.5292126239828,
+      "lat": 56.4229674126421,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Kalnamuižas ezers'",
+      "lon": 25.0427963101618,
+      "lat": 56.6232348783004,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Doles sala'",
+      "lon": 24.2015150845732,
+      "lat": 56.8657452005153,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Kalnciema skolas taka'",
+      "lon": 23.6289593949239,
+      "lat": 56.8086256718253,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Liliju ezers'",
+      "lon": 24.4121895057699,
+      "lat": 56.7727628959356,
+      "type": "pikniks"
+    },
+    {
+      "title": "Skolas ceļa atpūtas vieta",
+      "lon": 23.6598707603098,
+      "lat": 56.8144699817073,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Gaujas blakus A3 stāvlaukumam",
+      "lon": 25.7409374209211,
+      "lat": 57.6274456329823,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leivaahjumäe campfire site",
+      "lon": 26.12166667,
+      "lat": 59.30305556,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tissipuu campfire site",
+      "lon": 26.122602,
+      "lat": 59.305363,
+      "type": "pikniks"
+    },
+    {
+      "title": "Eesjärve campsite",
+      "lon": 26.120725,
+      "lat": 59.306929,
+      "type": "pikniks"
+    },
+    {
+      "title": "Loosalu campfire site",
+      "lon": 25.0997687,
+      "lat": 58.9438576,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mukri campfire site",
+      "lon": 24.994489,
+      "lat": 58.737235,
+      "type": "pikniks"
+    },
+    {
+      "title": "Norrby rest stop",
+      "lon": 23.356811,
+      "lat": 59.019756,
+      "type": "pikniks"
+    },
+    {
+      "title": "Diby rest stop",
+      "lon": 23.298868,
+      "lat": 59.03387,
+      "type": "pikniks"
+    },
+    {
+      "title": "Parunikivi rest stop",
+      "lon": 23.244006,
+      "lat": 58.998664,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saxby rest stop",
+      "lon": 23.118256,
+      "lat": 59.024753,
+      "type": "pikniks"
+    },
+    {
+      "title": "Harimäe campfire site",
+      "lon": 26.357564,
+      "lat": 57.983309,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pilkuse campfire site",
+      "lon": 26.528537,
+      "lat": 58.056941,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kooliranna campfire site",
+      "lon": 26.44344,
+      "lat": 58.016973,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kiigemäe campfire site",
+      "lon": 26.472279,
+      "lat": 58.029951,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kabeli rest stop",
+      "lon": 23.400707,
+      "lat": 59.289717,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lõunasadama campfire site",
+      "lon": 23.408747,
+      "lat": 59.276288,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaksikute campfire site",
+      "lon": 23.378143,
+      "lat": 59.290582,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tiidu campfire site",
+      "lon": 23.425181,
+      "lat": 59.280562,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaubaru forest hut",
+      "lon": 24.626969,
+      "lat": 57.974556,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saunakari campfire site",
+      "lon": 24.509051,
+      "lat": 59.604553,
+      "type": "pikniks"
+    },
+    {
+      "title": "Naissaare campsite",
+      "lon": 24.548981,
+      "lat": 59.559742,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hülkari rest stop",
+      "lon": 24.562857,
+      "lat": 59.541182,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saunamaa campfire site",
+      "lon": 26.971464,
+      "lat": 57.733312,
+      "type": "pikniks"
+    },
+    {
+      "title": "Suur Munamägi rest stop",
+      "lon": 27.05526,
+      "lat": 57.71514,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Kavadi campfire site",
+      "lon": 27.10534,
+      "lat": 57.74563,
+      "type": "pikniks"
+    },
+    {
+      "title": "Haanja campfire site",
+      "lon": 27.05078,
+      "lat": 57.71304,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Vaskna campfire site",
+      "lon": 27.08349,
+      "lat": 57.7164,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metsanurga rest stop",
+      "lon": 26.046752,
+      "lat": 58.873158,
+      "type": "pikniks"
+    },
+    {
+      "title": "Valtri kaevu rest stop",
+      "lon": 26.048577,
+      "lat": 58.890044,
+      "type": "pikniks"
+    },
+    {
+      "title": "Linajärve campfire site",
+      "lon": 26.276533,
+      "lat": 58.876838,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tooma campfire site",
+      "lon": 26.274005,
+      "lat": 58.876269,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tammemägi hill campfire site",
+      "lon": 26.158852,
+      "lat": 58.883136,
+      "type": "pikniks"
+    },
+    {
+      "title": "Purskava allika campfire site",
+      "lon": 26.071927,
+      "lat": 58.865291,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oostriku river campfire site",
+      "lon": 26.048436,
+      "lat": 58.887491,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vana paadisadama campfire site",
+      "lon": 26.21758,
+      "lat": 58.853622,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sinijärve campfire site",
+      "lon": 26.146758,
+      "lat": 58.862441,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kirikumäe campfire site",
+      "lon": 26.10403,
+      "lat": 58.871222,
+      "type": "pikniks"
+    },
+    {
+      "title": "Koosa campfire site",
+      "lon": 27.142307,
+      "lat": 58.395105,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pedja river campfire site",
+      "lon": 26.237308,
+      "lat": 58.544791,
+      "type": "pikniks"
+    },
+    {
+      "title": "Altmetsa campfire site",
+      "lon": 26.224482,
+      "lat": 58.543014,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rasti campfire site",
+      "lon": 26.175425,
+      "lat": 58.430256,
+      "type": "pikniks"
+    },
+    {
+      "title": "Naela campfire site",
+      "lon": 26.178791,
+      "lat": 58.423168,
+      "type": "pikniks"
+    },
+    {
+      "title": "Suuremäe campsite",
+      "lon": 26.5036,
+      "lat": 57.7118,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ähijärve rest stop",
+      "lon": 26.50578,
+      "lat": 57.71251,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kivi forest hut",
+      "lon": 26.41947,
+      "lat": 57.66216,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rebasemõisa campfire site",
+      "lon": 26.41709,
+      "lat": 57.74401,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ubajärve campfire site",
+      "lon": 26.58313,
+      "lat": 57.6689,
+      "type": "pikniks"
+    },
+    {
+      "title": "Peräjärve campfire site",
+      "lon": 26.52427,
+      "lat": 57.68482,
+      "type": "pikniks"
+    },
+    {
+      "title": "Plaagi campfire site",
+      "lon": 26.50201,
+      "lat": 57.70356,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mäekonnu campfire site",
+      "lon": 26.48853,
+      "lat": 57.73335,
+      "type": "pikniks"
+    },
+    {
+      "title": "Õdri II campfire site",
+      "lon": 26.46576,
+      "lat": 57.75254,
+      "type": "pikniks"
+    },
+    {
+      "title": "Õdri I campfire site",
+      "lon": 26.4638,
+      "lat": 57.75136,
+      "type": "pikniks"
+    },
+    {
+      "title": "Alakonnu campfire site",
+      "lon": 26.49314,
+      "lat": 57.71769,
+      "type": "pikniks"
+    },
+    {
+      "title": "Veski campfire site",
+      "lon": 26.49997,
+      "lat": 57.71925,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Ähijärv campfire site",
+      "lon": 26.5026,
+      "lat": 57.71146,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kuueristi rest stop",
+      "lon": 25.90273,
+      "lat": 59.540817,
+      "type": "pikniks"
+    },
+    {
+      "title": "Koljaku rest stop",
+      "lon": 25.997578,
+      "lat": 59.556322,
+      "type": "pikniks"
+    },
+    {
+      "title": "Esku rest stop",
+      "lon": 26.048867,
+      "lat": 59.561503,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tsitre campsite",
+      "lon": 25.513333,
+      "lat": 59.517074,
+      "type": "pikniks"
+    },
+    {
+      "title": "Juminda campsite",
+      "lon": 25.50846,
+      "lat": 59.647321,
+      "type": "pikniks"
+    },
+    {
+      "title": "Purekkari campsite",
+      "lon": 25.697536,
+      "lat": 59.667358,
+      "type": "pikniks"
+    },
+    {
+      "title": "Võsu campsite",
+      "lon": 25.973345,
+      "lat": 59.568058,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oandu campsite",
+      "lon": 26.097043,
+      "lat": 59.562375,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kalmeoja campfire site",
+      "lon": 25.670091,
+      "lat": 59.48532,
+      "type": "pikniks"
+    },
+    {
+      "title": "Nõmmeveski campfire site",
+      "lon": 25.788222,
+      "lat": 59.504172,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mustoja campfire site",
+      "lon": 26.175076,
+      "lat": 59.582502,
+      "type": "pikniks"
+    },
+    {
+      "title": "Muinasküla campfire site",
+      "lon": 25.007125,
+      "lat": 58.452527,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kõrtsi-Tõramaa campfire site",
+      "lon": 25.031376,
+      "lat": 58.430389,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pertlimetsa campfire site",
+      "lon": 25.108732,
+      "lat": 58.306761,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oksa granary forest hut",
+      "lon": 25.193004,
+      "lat": 58.463021,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Öördi forest hut",
+      "lon": 25.196481,
+      "lat": 58.380365,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oksa hay barn forest hut",
+      "lon": 25.205018,
+      "lat": 58.464358,
+      "type": "pikniks"
+    },
+    {
+      "title": "Meiekose oak forest hut",
+      "lon": 24.995578,
+      "lat": 58.455895,
+      "type": "pikniks"
+    },
+    {
+      "title": "Meiekose Saarte campfire site",
+      "lon": 24.993502,
+      "lat": 58.456737,
+      "type": "pikniks"
+    },
+    {
+      "title": "Läti campfire site",
+      "lon": 25.061768,
+      "lat": 58.366284,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ruunaraipe campfire site",
+      "lon": 25.319369,
+      "lat": 58.405194,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hüpassaare campfire site",
+      "lon": 25.271756,
+      "lat": 58.530385,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oksa campfire site",
+      "lon": 25.200283,
+      "lat": 58.46423,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mulgi meadow campfire site",
+      "lon": 25.153131,
+      "lat": 58.457056,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tõramaa wooded meadow campfire site",
+      "lon": 24.996989,
+      "lat": 58.422235,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rumba campfire site",
+      "lon": 24.130903,
+      "lat": 58.714049,
+      "type": "pikniks"
+    },
+    {
+      "title": "Penijõe campfire site",
+      "lon": 23.812571,
+      "lat": 58.714429,
+      "type": "pikniks"
+    },
+    {
+      "title": "Nurga rest stop",
+      "lon": 23.495443,
+      "lat": 58.774922,
+      "type": "pikniks"
+    },
+    {
+      "title": "Karusselja rest stop",
+      "lon": 23.827961,
+      "lat": 58.728181,
+      "type": "pikniks"
+    },
+    {
+      "title": "Suitsu forest hut",
+      "lon": 23.746279,
+      "lat": 58.726285,
+      "type": "pikniks"
+    },
+    {
+      "title": "Suitsu rest stop",
+      "lon": 23.749894,
+      "lat": 58.721711,
+      "type": "pikniks"
+    },
+    {
+      "title": "Keemu rest stop",
+      "lon": 23.674011,
+      "lat": 58.745525,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kulpri campsite",
+      "lon": 21.830967,
+      "lat": 58.373903,
+      "type": "pikniks"
+    },
+    {
+      "title": "Väike-Vilsandi rest stop",
+      "lon": 21.893168,
+      "lat": 58.37787,
+      "type": "pikniks"
+    },
+    {
+      "title": "Käkisilma campsite",
+      "lon": 21.936519,
+      "lat": 58.352328,
+      "type": "pikniks"
+    },
+    {
+      "title": "Elda campsite",
+      "lon": 21.846152,
+      "lat": 58.290498,
+      "type": "pikniks"
+    },
+    {
+      "title": "Harilaiu rest stop",
+      "lon": 21.919417,
+      "lat": 58.472456,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vikati information hut and campfire site",
+      "lon": 21.862445,
+      "lat": 58.372118,
+      "type": "pikniks"
+    },
+    {
+      "title": "Harilaiu campsite",
+      "lon": 21.8638,
+      "lat": 58.483611,
+      "type": "pikniks"
+    },
+    {
+      "title": "Roela Campfire site",
+      "lon": 26.581212,
+      "lat": 59.174419,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rocket Base campfire site",
+      "lon": 26.345851,
+      "lat": 59.187469,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mardihansu campfire site",
+      "lon": 26.193258,
+      "lat": 59.226462,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ohepalu campfire site",
+      "lon": 25.957694,
+      "lat": 59.348978,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leivaahjumäe campfire site",
+      "lon": 26.121667,
+      "lat": 59.303056,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaberneeme campfire sites",
+      "lon": 25.267584,
+      "lat": 59.506884,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pedassaare campfire site",
+      "lon": 25.373571,
+      "lat": 59.512148,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tädu campfire site",
+      "lon": 24.8974361,
+      "lat": 59.5131194,
+      "type": "pikniks"
+    },
+    {
+      "title": "Varbola stronghold campsite",
+      "lon": 24.506936,
+      "lat": 59.041129,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hirvelaane campfire site",
+      "lon": 25.274162,
+      "lat": 58.994226,
+      "type": "pikniks"
+    },
+    {
+      "title": "Järveotsa campfire site",
+      "lon": 24.1519021,
+      "lat": 59.0961273,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metsanurme campfire site I",
+      "lon": 24.6460332,
+      "lat": 59.2559697,
+      "type": "pikniks"
+    },
+    {
+      "title": "Alavere campfire site",
+      "lon": 25.294787,
+      "lat": 59.238976,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saula campfire site",
+      "lon": 25.02908,
+      "lat": 59.220047,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saarte bog campfire site",
+      "lon": 24.929082,
+      "lat": 59.254647,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ohtu campfire site",
+      "lon": 24.378932,
+      "lat": 59.270654,
+      "type": "pikniks"
+    },
+    {
+      "title": "Padise campfire site",
+      "lon": 24.142516,
+      "lat": 59.21882,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leetse campsite",
+      "lon": 24.120422,
+      "lat": 59.372503,
+      "type": "pikniks"
+    },
+    {
+      "title": "Meremõisa campsite",
+      "lon": 24.251123,
+      "lat": 59.399123,
+      "type": "pikniks"
+    },
+    {
+      "title": "Alulinna campfire site",
+      "lon": 27.175726,
+      "lat": 59.415352,
+      "type": "pikniks"
+    },
+    {
+      "title": "Aidu-Nõmme campfire site",
+      "lon": 27.144696,
+      "lat": 59.335669,
+      "type": "pikniks"
+    },
+    {
+      "title": "Konsu campsite",
+      "lon": 27.584942,
+      "lat": 59.231429,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kauksi beach forest campsite",
+      "lon": 27.223767,
+      "lat": 58.989207,
+      "type": "pikniks"
+    },
+    {
+      "title": "Karjamaa campsite",
+      "lon": 27.493193,
+      "lat": 59.010434,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kauksi campsite",
+      "lon": 27.2022,
+      "lat": 58.986147,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uusküla campsite",
+      "lon": 27.302965,
+      "lat": 59.00062,
+      "type": "pikniks"
+    },
+    {
+      "title": "Raadna campsite",
+      "lon": 27.123375,
+      "lat": 58.968819,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uhaku rest stop",
+      "lon": 27.030022,
+      "lat": 59.369151,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tudu forest hut",
+      "lon": 26.775928,
+      "lat": 59.164533,
+      "type": "pikniks"
+    },
+    {
+      "title": "Seljandiku forest hut",
+      "lon": 27.262939,
+      "lat": 59.081714,
+      "type": "pikniks"
+    },
+    {
+      "title": "Varessaare forest hut",
+      "lon": 27.128736,
+      "lat": 59.170879,
+      "type": "pikniks"
+    },
+    {
+      "title": "Liivjärve campfire site",
+      "lon": 27.562592,
+      "lat": 59.304525,
+      "type": "pikniks"
+    },
+    {
+      "title": "Martiska campfire site",
+      "lon": 27.5707,
+      "lat": 59.2641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rääkjärve campfire site",
+      "lon": 27.5544056,
+      "lat": 59.30378056,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uljaste campfire site",
+      "lon": 26.782091,
+      "lat": 59.358606,
+      "type": "pikniks"
+    },
+    {
+      "title": "Iisaku hill campfire site",
+      "lon": 27.307054,
+      "lat": 59.107676,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kõrtsikraavi campfire site",
+      "lon": 27.245264,
+      "lat": 59.067628,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rüütli campfire site",
+      "lon": 27.254092,
+      "lat": 59.059907,
+      "type": "pikniks"
+    },
+    {
+      "title": "Selisoo campfire site",
+      "lon": 27.296272,
+      "lat": 59.171162,
+      "type": "pikniks"
+    },
+    {
+      "title": "Võhma campfire site",
+      "lon": 27.290649,
+      "lat": 59.034649,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jõuga lakes campfire site",
+      "lon": 27.387724,
+      "lat": 59.153719,
+      "type": "pikniks"
+    },
+    {
+      "title": "Agusalu campfire site",
+      "lon": 27.470395,
+      "lat": 59.10288,
+      "type": "pikniks"
+    },
+    {
+      "title": "Puhatu campfire sites",
+      "lon": 27.8600322,
+      "lat": 59.1713556,
+      "type": "pikniks"
+    },
+    {
+      "title": "Langevoja campfire site",
+      "lon": 27.755217,
+      "lat": 59.3843,
+      "type": "pikniks"
+    },
+    {
+      "title": "Voose campfire site",
+      "lon": 25.488773,
+      "lat": 59.192272,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tõõrakõrve campfire site",
+      "lon": 25.891802,
+      "lat": 59.27463,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tamme campfire site",
+      "lon": 25.920406,
+      "lat": 59.013466,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rava campfire site",
+      "lon": 25.851376,
+      "lat": 59.122941,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hiieveski campsite",
+      "lon": 25.387213,
+      "lat": 59.111378,
+      "type": "pikniks"
+    },
+    {
+      "title": "Matsimäe Pühajärve campsite",
+      "lon": 25.512903,
+      "lat": 59.061154,
+      "type": "pikniks"
+    },
+    {
+      "title": "Järvi Pikkjärve campsite",
+      "lon": 25.681777,
+      "lat": 59.428258,
+      "type": "pikniks"
+    },
+    {
+      "title": "Järvi Pärnjärve campsite",
+      "lon": 25.673614,
+      "lat": 59.425816,
+      "type": "pikniks"
+    },
+    {
+      "title": "Paukjärve campsite",
+      "lon": 25.686573,
+      "lat": 59.399545,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jussi campsite",
+      "lon": 25.722673,
+      "lat": 59.376806,
+      "type": "pikniks"
+    },
+    {
+      "title": "Venemäe campsite",
+      "lon": 25.693514,
+      "lat": 59.340373,
+      "type": "pikniks"
+    },
+    {
+      "title": "Nikerjärve campsite",
+      "lon": 25.629162,
+      "lat": 59.271006,
+      "type": "pikniks"
+    },
+    {
+      "title": "Napu campfire site",
+      "lon": 25.523258,
+      "lat": 59.147355,
+      "type": "pikniks"
+    },
+    {
+      "title": "Paunküla campfire site",
+      "lon": 25.29034,
+      "lat": 59.14491,
+      "type": "pikniks"
+    },
+    {
+      "title": "Matsimäe quarry campfire site",
+      "lon": 25.507348,
+      "lat": 59.070394,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kalajärve campfire site",
+      "lon": 25.509393,
+      "lat": 59.199568,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mägede campfire sites",
+      "lon": 25.57868,
+      "lat": 59.222469,
+      "type": "pikniks"
+    },
+    {
+      "title": "Noku campfire site",
+      "lon": 25.510388,
+      "lat": 59.188573,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oru campfire site",
+      "lon": 25.626347,
+      "lat": 59.397519,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kulli campfire site with camping area",
+      "lon": 25.660854,
+      "lat": 59.364505,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kurisoo campfire site",
+      "lon": 25.781103,
+      "lat": 59.132147,
+      "type": "pikniks"
+    },
+    {
+      "title": "Krani campfire site with camping area",
+      "lon": 25.49148,
+      "lat": 59.260127,
+      "type": "pikniks"
+    },
+    {
+      "title": "Räägu rest stop",
+      "lon": 26.17636,
+      "lat": 58.866421,
+      "type": "pikniks"
+    },
+    {
+      "title": "Priistani rest stop",
+      "lon": 26.840063,
+      "lat": 58.682706,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tähemaa campfire site",
+      "lon": 27.085906,
+      "lat": 58.443681,
+      "type": "pikniks"
+    },
+    {
+      "title": "Siimusti campfire site",
+      "lon": 26.316857,
+      "lat": 58.741052,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hundissaare campfire site",
+      "lon": 26.17788,
+      "lat": 58.787951,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kassinurme campfire site",
+      "lon": 26.452966,
+      "lat": 58.700794,
+      "type": "pikniks"
+    },
+    {
+      "title": "Elistvere campfire site",
+      "lon": 26.692231,
+      "lat": 58.572503,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pangodi campsite",
+      "lon": 26.571254,
+      "lat": 58.199632,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tenno campfire site",
+      "lon": 26.556658,
+      "lat": 58.404847,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Prossa recreation site",
+      "lon": 26.566772,
+      "lat": 58.653711,
+      "type": "pikniks"
+    },
+    {
+      "title": "Särgjärve road rest stop",
+      "lon": 26.864392,
+      "lat": 58.652425,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kukemetsa forest hut",
+      "lon": 26.922973,
+      "lat": 58.566025,
+      "type": "pikniks"
+    },
+    {
+      "title": "Palumägede campfire site",
+      "lon": 26.574536,
+      "lat": 58.191444,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sihi campfire site",
+      "lon": 26.758417,
+      "lat": 58.656567,
+      "type": "pikniks"
+    },
+    {
+      "title": "Piiri campfire site",
+      "lon": 26.928986,
+      "lat": 58.627153,
+      "type": "pikniks"
+    },
+    {
+      "title": "Papi campfire site",
+      "lon": 26.769861,
+      "lat": 58.654253,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pangodi campfire site",
+      "lon": 26.577511,
+      "lat": 58.198409,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kalamehe campfire site",
+      "lon": 26.844776,
+      "lat": 58.647634,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kukeseene campfire site",
+      "lon": 26.84944,
+      "lat": 58.644787,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tiksoja campfire site",
+      "lon": 26.66276,
+      "lat": 58.39647,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lagle campfire site",
+      "lon": 26.519331,
+      "lat": 58.407146,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kärgandi campfire site",
+      "lon": 26.959589,
+      "lat": 58.592586,
+      "type": "pikniks"
+    },
+    {
+      "title": "Määrumäe campfire site",
+      "lon": 26.943832,
+      "lat": 58.751565,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kõrgekalda campfire site",
+      "lon": 26.89685,
+      "lat": 58.737134,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uuetee campfire site",
+      "lon": 26.861059,
+      "lat": 58.674665,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mütsiga männi campfire site",
+      "lon": 26.888251,
+      "lat": 58.650379,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Kaiu campfire site",
+      "lon": 26.85168,
+      "lat": 58.642335,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tammeluha campfire site",
+      "lon": 26.843053,
+      "lat": 58.648584,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jõemõisa campfire site",
+      "lon": 26.842808,
+      "lat": 58.652973,
+      "type": "pikniks"
+    },
+    {
+      "title": "Piusa campfire site",
+      "lon": 27.467244,
+      "lat": 57.838963,
+      "type": "pikniks"
+    },
+    {
+      "title": "Poogandi campfire site",
+      "lon": 27.702503,
+      "lat": 57.884622,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lõunalaagri campfire site",
+      "lon": 27.638778,
+      "lat": 57.844638,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ilumetsa rest stop (Meteorite Craters)",
+      "lon": 27.406111,
+      "lat": 57.957413,
+      "type": "pikniks"
+    },
+    {
+      "title": "Liipsaare forest hut",
+      "lon": 27.309414,
+      "lat": 57.931642,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rebasmäe forest hut",
+      "lon": 27.406463,
+      "lat": 57.942941,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leevi campfire site",
+      "lon": 27.173289,
+      "lat": 57.932928,
+      "type": "pikniks"
+    },
+    {
+      "title": "Paidra campfire site",
+      "lon": 27.189276,
+      "lat": 57.913515,
+      "type": "pikniks"
+    },
+    {
+      "title": "Koolmajärve campfire site",
+      "lon": 27.159162,
+      "lat": 57.95643,
+      "type": "pikniks"
+    },
+    {
+      "title": "Valgjärve campfire site",
+      "lon": 27.348413,
+      "lat": 57.943018,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mustjärve campfire site",
+      "lon": 27.344455,
+      "lat": 57.934413,
+      "type": "pikniks"
+    },
+    {
+      "title": "Värska campfire site",
+      "lon": 27.634813,
+      "lat": 57.946813,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tuurapera campfire site",
+      "lon": 27.420566,
+      "lat": 58.080173,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leevaku campfire site",
+      "lon": 27.360282,
+      "lat": 58.09935,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaljupealse campfire site",
+      "lon": 27.372844,
+      "lat": 58.093647,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Jõksi campfire site",
+      "lon": 26.747536,
+      "lat": 57.99908,
+      "type": "pikniks"
+    },
+    {
+      "title": "Peri campfire site",
+      "lon": 27.074577,
+      "lat": 58.029393,
+      "type": "pikniks"
+    },
+    {
+      "title": "Laho forest hut",
+      "lon": 27.137412,
+      "lat": 58.148301,
+      "type": "pikniks"
+    },
+    {
+      "title": "Otteni campfire site",
+      "lon": 27.067483,
+      "lat": 58.110058,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kooraste Suurjärve campfire site",
+      "lon": 26.649783,
+      "lat": 57.963,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ahja campfire site",
+      "lon": 27.059015,
+      "lat": 58.242133,
+      "type": "pikniks"
+    },
+    {
+      "title": "Valgesoo bog campfire site",
+      "lon": 27.058445,
+      "lat": 58.153747,
+      "type": "pikniks"
+    },
+    {
+      "title": "Soontaga campsite",
+      "lon": 26.067821,
+      "lat": 58.021879,
+      "type": "pikniks"
+    },
+    {
+      "title": "Erastvere park campsite",
+      "lon": 26.782247,
+      "lat": 57.977788,
+      "type": "pikniks"
+    },
+    {
+      "title": "Palojärve campsite",
+      "lon": 26.915044,
+      "lat": 58.08316,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kooraste Kõverjärve campfire site",
+      "lon": 26.668738889,
+      "lat": 57.968041667,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kooraste Pikkjärve campfire site",
+      "lon": 26.596201,
+      "lat": 57.96867,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vähkjärve campfire site",
+      "lon": 26.772087,
+      "lat": 58.004585,
+      "type": "pikniks"
+    },
+    {
+      "title": "Palojärve campfire site",
+      "lon": 26.909383,
+      "lat": 58.084385,
+      "type": "pikniks"
+    },
+    {
+      "title": "Laari campfire site",
+      "lon": 26.990833,
+      "lat": 58.109167,
+      "type": "pikniks"
+    },
+    {
+      "title": "Voorepalu campfire site",
+      "lon": 26.871743,
+      "lat": 58.152202,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sõnajala campfire site",
+      "lon": 27.029427,
+      "lat": 58.142057,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lõunatipu campfire site",
+      "lon": 26.616666,
+      "lat": 57.509518,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kubja rest stop",
+      "lon": 26.9988,
+      "lat": 57.81312,
+      "type": "pikniks"
+    },
+    {
+      "title": "Verijärve rest stop",
+      "lon": 27.056091,
+      "lat": 57.810799,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metsavenna campfire site",
+      "lon": 26.664093,
+      "lat": 57.571964,
+      "type": "pikniks"
+    },
+    {
+      "title": "Paganamaa campfire site",
+      "lon": 26.834391,
+      "lat": 57.585316,
+      "type": "pikniks"
+    },
+    {
+      "title": "Luhasoo campfire site",
+      "lon": 26.887905,
+      "lat": 57.640641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kirikumäe campfire site",
+      "lon": 27.254861,
+      "lat": 57.685522,
+      "type": "pikniks"
+    },
+    {
+      "title": "Härma campfire site",
+      "lon": 27.361249,
+      "lat": 57.79733,
+      "type": "pikniks"
+    },
+    {
+      "title": "Make campfire site",
+      "lon": 27.355975,
+      "lat": 57.751417,
+      "type": "pikniks"
+    },
+    {
+      "title": "Oore campsite",
+      "lon": 26.346886,
+      "lat": 57.682344,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tamme-Lauri oak rest stop",
+      "lon": 26.57823,
+      "lat": 57.91711,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kautsi forest hut",
+      "lon": 26.582898,
+      "lat": 57.70554,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pähni forest hut",
+      "lon": 26.766015,
+      "lat": 57.630518,
+      "type": "pikniks"
+    },
+    {
+      "title": "Karula Pikkjärve campfire sites",
+      "lon": 26.302218,
+      "lat": 57.770151,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kogrejärve campfire site",
+      "lon": 26.423707,
+      "lat": 57.780595,
+      "type": "pikniks"
+    },
+    {
+      "title": "Linnajärve campfire site",
+      "lon": 26.380765,
+      "lat": 57.642972,
+      "type": "pikniks"
+    },
+    {
+      "title": "Alumati campfire site",
+      "lon": 26.310084,
+      "lat": 57.628518,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kõrgeperve campfire site",
+      "lon": 26.25688,
+      "lat": 57.621243,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tellingumäe campfire site",
+      "lon": 26.328232,
+      "lat": 57.597455,
+      "type": "pikniks"
+    },
+    {
+      "title": "Cycling trails campfire site",
+      "lon": 26.333075,
+      "lat": 57.598829,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lindora campfire site",
+      "lon": 27.335367,
+      "lat": 57.816501,
+      "type": "pikniks"
+    },
+    {
+      "title": "Verijärve campfire site",
+      "lon": 27.04499,
+      "lat": 57.810201,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kublitsa campfire site",
+      "lon": 26.973137,
+      "lat": 57.822334,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tillniidu campfire site",
+      "lon": 24.981667,
+      "lat": 58.806295,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kellissaare campfire site",
+      "lon": 25.216891,
+      "lat": 58.693786,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tõrvaaugu recreation site",
+      "lon": 25.384812,
+      "lat": 58.630976,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saeveski forest hut",
+      "lon": 25.285414,
+      "lat": 58.634385,
+      "type": "pikniks"
+    },
+    {
+      "title": "Taagepera campfire sites",
+      "lon": 25.67096,
+      "lat": 57.99641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Loodi campfire site",
+      "lon": 25.591612,
+      "lat": 58.271544,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sinialliku campfire site",
+      "lon": 25.56255,
+      "lat": 58.30339,
+      "type": "pikniks"
+    },
+    {
+      "title": "Koorküla Valgjärve campfire sites",
+      "lon": 25.875657,
+      "lat": 57.901745,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lasajärve campfire site",
+      "lon": 25.791951,
+      "lat": 57.920348,
+      "type": "pikniks"
+    },
+    {
+      "title": "Teringi campfire site",
+      "lon": 25.558283,
+      "lat": 57.9828,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tündre Suurekivi campfire site",
+      "lon": 25.61967,
+      "lat": 57.94915,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metsavenna campfire site",
+      "lon": 25.334318,
+      "lat": 58.640926,
+      "type": "pikniks"
+    },
+    {
+      "title": "Luite campfire site",
+      "lon": 25.341678,
+      "lat": 58.591001,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kabelimäe campfire site",
+      "lon": 25.291985,
+      "lat": 58.630277,
+      "type": "pikniks"
+    },
+    {
+      "title": "Labidakivi campfire site",
+      "lon": 25.343891,
+      "lat": 58.531021,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lõhavere campfire sites",
+      "lon": 25.513843,
+      "lat": 58.549408,
+      "type": "pikniks"
+    },
+    {
+      "title": "Rutu campfire site",
+      "lon": 25.6491,
+      "lat": 58.039838,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Tündre campfire site",
+      "lon": 25.628207,
+      "lat": 57.948716,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ruhijärve campfire sites",
+      "lon": 25.513365,
+      "lat": 58.020001,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kilingi-Nõmme campfire site",
+      "lon": 24.93107,
+      "lat": 58.14837,
+      "type": "pikniks"
+    },
+    {
+      "title": "Matsiranna campsite",
+      "lon": 23.738224,
+      "lat": 58.37037,
+      "type": "pikniks"
+    },
+    {
+      "title": "Soontagana campsite",
+      "lon": 24.166824,
+      "lat": 58.656906,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lake Rae campsite",
+      "lon": 24.769256,
+      "lat": 58.121375,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lemme campsite",
+      "lon": 24.405433,
+      "lat": 57.964971,
+      "type": "pikniks"
+    },
+    {
+      "title": "Krapi campsite",
+      "lon": 24.390877,
+      "lat": 57.938893,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metskonna rest stop",
+      "lon": 24.45303,
+      "lat": 58.01888,
+      "type": "pikniks"
+    },
+    {
+      "title": "Valgeranna rest stop",
+      "lon": 24.379304,
+      "lat": 58.386999,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kopra tare forest hut",
+      "lon": 25.011533,
+      "lat": 58.224771,
+      "type": "pikniks"
+    },
+    {
+      "title": "Soontagana forest hut",
+      "lon": 24.16688,
+      "lat": 58.65693,
+      "type": "pikniks"
+    },
+    {
+      "title": "Laiksaare forest hut",
+      "lon": 24.673607,
+      "lat": 58.094993,
+      "type": "pikniks"
+    },
+    {
+      "title": "Nedrema wooded meadow campfire site",
+      "lon": 24.07053,
+      "lat": 58.53922,
+      "type": "pikniks"
+    },
+    {
+      "title": "Priivitsa campfire site",
+      "lon": 24.451598,
+      "lat": 58.020431,
+      "type": "pikniks"
+    },
+    {
+      "title": "Katku campfire site",
+      "lon": 24.912531,
+      "lat": 58.231223,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tõotusemäe campfire site",
+      "lon": 24.510003,
+      "lat": 58.134452,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vihterpalu campfire site",
+      "lon": 23.872185,
+      "lat": 59.259141,
+      "type": "pikniks"
+    },
+    {
+      "title": "Keibu campfire site II",
+      "lon": 23.746871,
+      "lat": 59.248277,
+      "type": "pikniks"
+    },
+    {
+      "title": "Veski quarry rest stop",
+      "lon": 23.73456667,
+      "lat": 59.17944167,
+      "type": "pikniks"
+    },
+    {
+      "title": "Õmma bog forest hut",
+      "lon": 24.1021972,
+      "lat": 58.9759388,
+      "type": "pikniks"
+    },
+    {
+      "title": "Peetri stone rest stop",
+      "lon": 23.500994,
+      "lat": 58.932187,
+      "type": "pikniks"
+    },
+    {
+      "title": "Salajõe rest stop",
+      "lon": 23.669721,
+      "lat": 59.021633,
+      "type": "pikniks"
+    },
+    {
+      "title": "Peraküla campsite",
+      "lon": 23.600297,
+      "lat": 59.221349,
+      "type": "pikniks"
+    },
+    {
+      "title": "Toatsejärve rest stop",
+      "lon": 23.616701,
+      "lat": 59.214653,
+      "type": "pikniks"
+    },
+    {
+      "title": "Põõsaspea rest stop",
+      "lon": 23.51131,
+      "lat": 59.228055,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uuejõe campfire site",
+      "lon": 23.576041,
+      "lat": 59.21148,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lepaaugu campfire site",
+      "lon": 23.723532,
+      "lat": 59.230771,
+      "type": "pikniks"
+    },
+    {
+      "title": "Uuejõe sauna campfire site",
+      "lon": 23.574694,
+      "lat": 59.213584,
+      "type": "pikniks"
+    },
+    {
+      "title": "Keibu campfire site I",
+      "lon": 23.746871,
+      "lat": 59.248277,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tänavjärve campfire site",
+      "lon": 23.830991,
+      "lat": 59.184314,
+      "type": "pikniks"
+    },
+    {
+      "title": "Veskijärve campfire site",
+      "lon": 23.764624,
+      "lat": 59.180739,
+      "type": "pikniks"
+    },
+    {
+      "title": "Karjääri campsite",
+      "lon": 22.117516,
+      "lat": 58.46595,
+      "type": "pikniks"
+    },
+    {
+      "title": "Taimeaia rest stop",
+      "lon": 22.30790278,
+      "lat": 58.20950278,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaali rest stop",
+      "lon": 22.669778,
+      "lat": 58.372383,
+      "type": "pikniks"
+    },
+    {
+      "title": "Järve rest stop",
+      "lon": 22.2701805,
+      "lat": 58.1919611,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kalasma campsite",
+      "lon": 22.115505,
+      "lat": 58.474123,
+      "type": "pikniks"
+    },
+    {
+      "title": "Raketi campsite",
+      "lon": 22.187745,
+      "lat": 58.40811,
+      "type": "pikniks"
+    },
+    {
+      "title": "Abula campsite",
+      "lon": 22.114412,
+      "lat": 58.451378,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tuhkana campsite",
+      "lon": 22.506831,
+      "lat": 58.591935,
+      "type": "pikniks"
+    },
+    {
+      "title": "Keskranna rest stop",
+      "lon": 22.29955278,
+      "lat": 58.20533611,
+      "type": "pikniks"
+    },
+    {
+      "title": "Viieristi rest stop",
+      "lon": 22.174873,
+      "lat": 58.020563,
+      "type": "pikniks"
+    },
+    {
+      "title": "Suure Tõllu kerisekivi rest stop",
+      "lon": 22.161702,
+      "lat": 58.39649,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sopi forest hut",
+      "lon": 22.184338,
+      "lat": 58.055198,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ninanuki forest hut",
+      "lon": 22.68627,
+      "lat": 58.596237,
+      "type": "pikniks"
+    },
+    {
+      "title": "Veere campsite",
+      "lon": 22.073952,
+      "lat": 58.422671,
+      "type": "pikniks"
+    },
+    {
+      "title": "Konati campsite",
+      "lon": 22.247966,
+      "lat": 58.436771,
+      "type": "pikniks"
+    },
+    {
+      "title": "Soela campsite",
+      "lon": 22.607676,
+      "lat": 58.598465,
+      "type": "pikniks"
+    },
+    {
+      "title": "Triigi campsite",
+      "lon": 22.694327,
+      "lat": 58.596946,
+      "type": "pikniks"
+    },
+    {
+      "title": "Meiuste campsite",
+      "lon": 22.610606,
+      "lat": 58.59488,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kõpu Suurkivi rest stop",
+      "lon": 22.19881,
+      "lat": 58.89236,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kallaste cliff rest stop",
+      "lon": 22.98985,
+      "lat": 58.90143,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kapasto forest hut",
+      "lon": 22.687066,
+      "lat": 58.908275,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sääretirbi campsite",
+      "lon": 22.81362,
+      "lat": 58.76988,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sarve campsite",
+      "lon": 23.06138,
+      "lat": 58.84294,
+      "type": "pikniks"
+    },
+    {
+      "title": "Luidja campsite",
+      "lon": 22.387096,
+      "lat": 58.932123,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ninaotsa campsite",
+      "lon": 22.438862,
+      "lat": 58.991165,
+      "type": "pikniks"
+    },
+    {
+      "title": "Palli campsite and observation tower",
+      "lon": 22.312122,
+      "lat": 58.947924,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaleste campsite",
+      "lon": 22.133273,
+      "lat": 58.907668,
+      "type": "pikniks"
+    },
+    {
+      "title": "Mägipä campsite",
+      "lon": 22.220813,
+      "lat": 58.93468,
+      "type": "pikniks"
+    },
+    {
+      "title": "Hirmuste campsite",
+      "lon": 22.131637,
+      "lat": 58.941145,
+      "type": "pikniks"
+    },
+    {
+      "title": "Metsapere forest hut",
+      "lon": 22.52358,
+      "lat": 58.829661,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tihu forest hut",
+      "lon": 22.530852,
+      "lat": 58.854534,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kalurikoja forest hut",
+      "lon": 22.217597,
+      "lat": 58.935776,
+      "type": "pikniks"
+    },
+    {
+      "title": "Säärenina campfire site",
+      "lon": 22.94155,
+      "lat": 58.98181,
+      "type": "pikniks"
+    },
+    {
+      "title": "Tõrvanina campsite",
+      "lon": 22.686498,
+      "lat": 59.039551,
+      "type": "pikniks"
+    },
+    {
+      "title": "Autobaasi campfire site",
+      "lon": 22.712442,
+      "lat": 59.006011,
+      "type": "pikniks"
+    },
+    {
+      "title": "Laasimetsa campfire site",
+      "lon": 22.549333,
+      "lat": 58.895325,
+      "type": "pikniks"
+    },
+    {
+      "title": "Leemeti forest hut",
+      "lon": 22.46795,
+      "lat": 58.872582,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vanajõe valley campfire site",
+      "lon": 22.434935,
+      "lat": 58.885042,
+      "type": "pikniks"
+    },
+    {
+      "title": "Stompaku partizānu mītnes",
+      "lon": 27.520222769120124,
+      "lat": 57.14311750263292,
+      "type": "pikniks"
+    },
+    {
+      "title": "Garie kalni",
+      "lon": 23.65212341521312,
+      "lat": 56.627014764822725,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaltene",
+      "lon": 22.774953116882838,
+      "lat": 57.41343274975735,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Ārijas-Jankovski ceļa",
+      "lon": 23.87520925733802,
+      "lat": 56.64713285725034,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta \"Zīvartiņš\"",
+      "lon": 23.283208957877324,
+      "lat": 57.072817793606625,
+      "type": "pikniks"
+    },
+    {
+      "title": "Bleķa brieža atpūtas vieta",
+      "lon": 25.013271720292398,
+      "lat": 56.57299410969961,
+      "type": "pikniks"
+    },
+    {
+      "title": "Silenieku atpūtas vieta",
+      "lon": 25.126164091431377,
+      "lat": 56.47114508046278,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pieci ceļi",
+      "lon": 24.506031339138236,
+      "lat": 56.71048922044683,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jūgu krustojuma atpūtas vieta",
+      "lon": 25.08919581198781,
+      "lat": 56.48081180370173,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sēņotāju māja",
+      "lon": 24.585716535412356,
+      "lat": 56.74959319132516,
+      "type": "pikniks"
+    },
+    {
+      "title": "Likvertene",
+      "lon": 24.30062272301821,
+      "lat": 56.4175458186168,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 2",
+      "lon": 24.919247042954588,
+      "lat": 56.631385681364264,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pakuļu ezers",
+      "lon": 24.521213411671646,
+      "lat": 56.73721469779863,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kausu ezers",
+      "lon": 24.511826743025473,
+      "lat": 56.75002015356018,
+      "type": "pikniks"
+    },
+    {
+      "title": "Odzīte",
+      "lon": 26.13898821480929,
+      "lat": 56.53090366538491,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 3",
+      "lon": 24.920194834278714,
+      "lat": 56.63094784512249,
+      "type": "pikniks"
+    },
+    {
+      "title": "Aklais ezers",
+      "lon": 24.90466251579528,
+      "lat": 56.565273360940395,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 1",
+      "lon": 24.9164643560422,
+      "lat": 56.632654797497466,
+      "type": "pikniks"
+    },
+    {
+      "title": "Piebalgas",
+      "lon": 24.431958623942464,
+      "lat": 56.680621711617874,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Baltezera",
+      "lon": 25.031330115326803,
+      "lat": 56.49840919518641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kokšu (Zāļu) ezera",
+      "lon": 26.078436,
+      "lat": 57.668028,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kokšu (Zāļu) ezera",
+      "lon": 26.081553,
+      "lat": 57.667707,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kokšu (Zāļu) ezera",
+      "lon": 26.077176,
+      "lat": 57.673547,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Klievezera",
+      "lon": 25.908362,
+      "lat": 57.414209,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kaupēna ezera",
+      "lon": 25.674294,
+      "lat": 57.229103,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kapu ezera",
+      "lon": 26.560149,
+      "lat": 56.806519,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kaļņa ezera",
+      "lon": 26.98981,
+      "lat": 57.090676,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kaļņa ezera",
+      "lon": 26.975669,
+      "lat": 57.098195,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kaļņa ezera",
+      "lon": 26.979161,
+      "lat": 57.101788,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Janopoles dīķa",
+      "lon": 27.398318,
+      "lat": 56.42794,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Irbes",
+      "lon": 21.8675825,
+      "lat": 57.5518676,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Gaujas tilta Strenči",
+      "lon": 25.700281,
+      "lat": 57.618341,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Gaujas tilta Strenči",
+      "lon": 25.697601,
+      "lat": 57.618683,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Gaujas (Tirziņas ieteka)",
+      "lon": 26.429933,
+      "lat": 57.392349,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Egļukalna",
+      "lon": 26.33071,
+      "lat": 55.87359,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Dūņezera",
+      "lon": 22.002346,
+      "lat": 57.303034,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Pie dīķa",
+      "lon": 27.612895,
+      "lat": 57.278775,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Daugavas",
+      "lon": 27.12854,
+      "lat": 55.88766,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Darvas ezera",
+      "lon": 26.229842,
+      "lat": 57.59547,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Cieceres upes",
+      "lon": 22.08452,
+      "lat": 56.686943,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Cepurītes ezera",
+      "lon": 26.193441,
+      "lat": 57.653749,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Carnikavas",
+      "lon": 24.277486,
+      "lat": 57.133691,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Bekām",
+      "lon": 26.102653,
+      "lat": 57.703433,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Ķēķis",
+      "lon": 26.861485,
+      "lat": 56.642008,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Karogu karjers",
+      "lon": 24.786158,
+      "lat": 57.826578,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Irbes ieteka",
+      "lon": 22.149445,
+      "lat": 57.64437,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Dzelzsāmurs",
+      "lon": 24.785357,
+      "lat": 57.834641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta ceļā uz Ložmetējkalnu",
+      "lon": 23.637536,
+      "lat": 56.864164,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Bārtas upes krastā",
+      "lon": 21.159062,
+      "lat": 56.362567,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Akmens",
+      "lon": 27.180729,
+      "lat": 56.791289,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ako piemiņas vieta",
+      "lon": 24.387388,
+      "lat": 56.843189,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Ventmala",
+      "lon": 22.105548,
+      "lat": 56.479328,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Vecvietas",
+      "lon": 24.591234,
+      "lat": 57.877866,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Vasas",
+      "lon": 24.37807,
+      "lat": 57.52097,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Tīteņi Steķu silā",
+      "lon": 26.220981,
+      "lat": 56.401778,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Tikšanās vieta",
+      "lon": 22.107398,
+      "lat": 57.364014,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Šūpoles",
+      "lon": 26.666347,
+      "lat": 57.280554,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Rozēnu tilts",
+      "lon": 24.646828,
+      "lat": 57.885608,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Rojnieki",
+      "lon": 22.081704,
+      "lat": 57.610324,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Riebiņu ezers",
+      "lon": 24.963482,
+      "lat": 57.374589,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Restorāns",
+      "lon": 26.884861,
+      "lat": 56.656299,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Pūcīte",
+      "lon": 21.171525,
+      "lat": 56.424901,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Priežu mežs",
+      "lon": 21.131909,
+      "lat": 56.188861,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Piļkas",
+      "lon": 25.934223,
+      "lat": 56.419019,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta piecu ceļu krustā",
+      "lon": 23.696597,
+      "lat": 56.836104,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Vorcu ezera",
+      "lon": 27.746079,
+      "lat": 56.371814,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Vārmes",
+      "lon": 22.146794,
+      "lat": 56.865245,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Vadzola ezera",
+      "lon": 26.189864,
+      "lat": 56.816678,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Suķiera ezera",
+      "lon": 25.857321,
+      "lat": 57.851345,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Spicu tilta",
+      "lon": 25.996992,
+      "lat": 57.672529,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Spiciera ezera",
+      "lon": 25.96233,
+      "lat": 57.4233,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Šostu ezera",
+      "lon": 27.637155,
+      "lat": 56.380888,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Rindas upes",
+      "lon": 21.884517,
+      "lat": 57.516309,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Puteru ezera",
+      "lon": 22.193698,
+      "lat": 57.602846,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Pīļezera",
+      "lon": 24.894032,
+      "lat": 57.285527,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Pātraža ezera",
+      "lon": 26.722992,
+      "lat": 57.339285,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Motrīnes ezera",
+      "lon": 27.603313,
+      "lat": 56.870344,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Lielā Svētiņu ezera",
+      "lon": 27.150648,
+      "lat": 56.764456,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Lazdaga ezera",
+      "lon": 26.968765,
+      "lat": 57.054828,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Lašupes dzirnavu dīķa",
+      "lon": 22.291644,
+      "lat": 56.710623,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Laņģezera",
+      "lon": 25.418667,
+      "lat": 57.991983,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kovšu ezerav (Kaušezers)",
+      "lon": 28.037999,
+      "lat": 56.229737,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+      "lon": 28.024167,
+      "lat": 56.233471,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+      "lon": 28.034751,
+      "lat": 56.228944,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+      "lon": 28.031398,
+      "lat": 56.230069,
+      "type": "pikniks"
+    },
+    {
+      "title": "Engures ezera atpūtas vietas",
+      "lon": 23.13675,
+      "lat": 57.25762,
+      "type": "pikniks"
+    },
+    {
+      "title": "Elles kalns",
+      "lon": 22.9264,
+      "lat": 56.75499,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ēkāju ozols",
+      "lon": 24.499336,
+      "lat": 57.911451,
+      "type": "pikniks"
+    },
+    {
+      "title": "Driksnis",
+      "lon": 26.21082,
+      "lat": 56.68033,
+      "type": "pikniks"
+    },
+    {
+      "title": "Dabas parks Laukezers",
+      "lon": 25.997589,
+      "lat": 56.48993,
+      "type": "pikniks"
+    },
+    {
+      "title": "Dabas lieguma Dunika skābaržu audze",
+      "lon": 21.403041,
+      "lat": 56.240102,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ceļa mala",
+      "lon": 21.2352,
+      "lat": 56.415119,
+      "type": "pikniks"
+    },
+    {
+      "title": "Balvu vecais parks",
+      "lon": 27.229092,
+      "lat": 57.13218,
+      "type": "pikniks"
+    },
+    {
+      "title": "Baļotes ezers",
+      "lon": 26.00739,
+      "lat": 56.54587,
+      "type": "pikniks"
+    },
+    {
+      "title": "Augstrozes pilskalns",
+      "lon": 25.013423,
+      "lat": 57.51429,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vietas pie Segliņu ezera",
+      "lon": 22.262252,
+      "lat": 57.096683,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vietas pie Niedrāja ezera",
+      "lon": 25.974883,
+      "lat": 57.431235,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Zemenīte",
+      "lon": 26.76511,
+      "lat": 55.88645,
+      "type": "pikniks"
+    },
+    {
+      "title": "Saukas ezers",
+      "lon": 25.46997,
+      "lat": 56.2558,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sasaļu mežs",
+      "lon": 26.30388,
+      "lat": 55.92927,
+      "type": "pikniks"
+    },
+    {
+      "title": "Salaspils pludmale",
+      "lon": 24.338808,
+      "lat": 56.847531,
+      "type": "pikniks"
+    },
+    {
+      "title": "Plostu sienamā vieta",
+      "lon": 26.009261,
+      "lat": 57.670888,
+      "type": "pikniks"
+    },
+    {
+      "title": "Plieņciema taka",
+      "lon": 23.259802,
+      "lat": 57.087132,
+      "type": "pikniks"
+    },
+    {
+      "title": "Piļoru ozolu audze",
+      "lon": 27.604578,
+      "lat": 56.185161,
+      "type": "pikniks"
+    },
+    {
+      "title": "Meži ap Ādmiņa ezeru",
+      "lon": 26.406984,
+      "lat": 57.265912,
+      "type": "pikniks"
+    },
+    {
+      "title": "Purva trase",
+      "lon": 24.56291,
+      "lat": 57.94669,
+      "type": "pikniks"
+    },
+    {
+      "title": "LVM atpūtas vieta",
+      "lon": 25.016386,
+      "lat": 56.483298,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lubāna piknika vietas un pludmale",
+      "lon": 26.934441,
+      "lat": 56.797136,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lejas ezera atpūtas vieta",
+      "lon": 24.442064,
+      "lat": 56.784705,
+      "type": "pikniks"
+    },
+    {
+      "title": "Krāslavas priežu sils",
+      "lon": 27.18901,
+      "lat": 55.885893,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ziloņa ezers",
+      "lon": 22.2809309,
+      "lat": 57.1221528,
+      "type": "pikniks"
+    },
+    {
+      "title": "Žīguri",
+      "lon": 27.660503,
+      "lat": 57.271597,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vecupes taka",
+      "lon": 23.22156,
+      "lat": 57.17787,
+      "type": "pikniks"
+    },
+    {
+      "title": "Užavas bāka",
+      "lon": 21.4152,
+      "lat": 57.20955,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ukru gāršas piknika vietas",
+      "lon": 23.2094711065,
+      "lat": 56.3794742244,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ūdenstūristu nakšņošanas vieta pie Pededzes",
+      "lon": 27.085094,
+      "lat": 57.281746,
+      "type": "pikniks"
+    },
+    {
+      "title": "Timsmales baltezers",
+      "lon": 26.18959,
+      "lat": 56.6311,
+      "type": "pikniks"
+    },
+    {
+      "title": "Svētes piknika vieta",
+      "lon": 23.63171,
+      "lat": 56.6921,
+      "type": "pikniks"
+    },
+    {
+      "title": "Smiltiņkalns",
+      "lon": 22.749994,
+      "lat": 56.854922,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sēravots pie Gaujas",
+      "lon": 26.553522,
+      "lat": 57.268033,
+      "type": "pikniks"
+    },
+    {
+      "title": "Senču svētkalniņa atpūtas vieta",
+      "lon": 24.403456,
+      "lat": 56.831173,
+      "type": "pikniks"
+    },
+    {
+      "title": "Grīviņi",
+      "lon": 25.400748134,
+      "lat": 57.412148044,
+      "type": "pikniks"
+    },
+    {
+      "title": "Zēņdīķa atpūtas vietas",
+      "lon": 22.57759,
+      "lat": 57.7219,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Nīgrande",
+      "lon": 22.10143,
+      "lat": 56.48665,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sudmaļu pilskalns",
+      "lon": 26.3387851,
+      "lat": 55.8987684,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jāņarāmis",
+      "lon": 25.305252,
+      "lat": 57.361307,
+      "type": "pikniks"
+    },
+    {
+      "title": "atokvėpio vieta Senoji pušis",
+      "lon": 24.1368187259,
+      "lat": 55.0085946155,
+      "type": "pikniks"
+    },
+    {
+      "title": "Guldynų",
+      "lon": 24.110606343,
+      "lat": 55.0185740546,
+      "type": "pikniks"
+    },
+    {
+      "title": "Akmenės gamtos ir kultūros parkas",
+      "lon": 22.7241809994,
+      "lat": 56.2425046944,
+      "type": "pikniks"
+    },
+    {
+      "title": "Santeklių poilsiavietė",
+      "lon": 22.553111524,
+      "lat": 56.2278343685,
+      "type": "pikniks"
+    },
+    {
+      "title": "Juodeikių poilsiavietė",
+      "lon": 22.5335573817,
+      "lat": 56.2318018621,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lapkalnis",
+      "lon": 23.6083890482,
+      "lat": 54.7488275607,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kajackų",
+      "lon": 23.597863062,
+      "lat": 54.7937452639,
+      "type": "pikniks"
+    },
+    {
+      "title": "Skruzdžių kalnelis",
+      "lon": 23.6420880134,
+      "lat": 54.8024644115,
+      "type": "pikniks"
+    },
+    {
+      "title": "Aņņi",
+      "lon": 26.17677,
+      "lat": 57.69363,
+      "type": "pikniks"
+    },
+    {
+      "title": "Līgatnes pārgājiens",
+      "lon": 25.03921,
+      "lat": 57.23344,
+      "type": "taka"
+    },
+    {
+      "title": "Zaļā kāpa",
+      "lon": 23.473099,
+      "lat": 56.94458,
+      "type": "taka"
+    },
+    {
+      "title": "Svētes palienes pļavas",
+      "lon": 23.68626,
+      "lat": 56.63867,
+      "type": "taka"
+    },
+    {
+      "title": "Gar Lojas krastiem",
+      "lon": 24.65859,
+      "lat": 57.12509,
+      "type": "taka"
+    },
+    {
+      "title": "Vīsraga taka",
+      "lon": 25.28374,
+      "lat": 57.6978,
+      "type": "taka"
+    },
+    {
+      "title": "Grejsdalstien",
+      "lon": 9.538074,
+      "lat": 55.71628,
+      "type": "taka"
+    },
+    {
+      "title": "Dinaburgas taka",
+      "lon": 26.726717,
+      "lat": 55.911272,
+      "type": "taka"
+    },
+    {
+      "title": "Ezertaka",
+      "lon": 27.056156,
+      "lat": 57.432229,
+      "type": "taka"
+    },
+    {
+      "title": "Green railway: Lāde - Mazsalaca",
+      "lon": 24.6528482,
+      "lat": 57.4339323,
+      "type": "taka"
+    },
+    {
+      "title": "Kalamecu Markuzu grava",
+      "lon": 26.4361,
+      "lat": 57.54353,
+      "type": "taka"
+    },
+    {
+      "title": "Stompaku purva taka",
+      "lon": 27.5215622,
+      "lat": 57.1478672,
+      "type": "taka"
+    },
+    {
+      "title": "Takas Kirkilų kraštovaizdžio draustinyje",
+      "lon": 24.69088,
+      "lat": 56.24849,
+      "type": "taka"
+    },
+    {
+      "title": "Takas Karajimiškio kraštovaizdžio draustinyje",
+      "lon": 24.69287,
+      "lat": 56.20586,
+      "type": "taka"
+    },
+    {
+      "title": "Šilinišķu izziņas taka",
+      "lon": 25.975551,
+      "lat": 55.381016,
+      "type": "taka"
+    },
+    {
+      "title": "Meiroņu dabas taka",
+      "lon": 26.105712,
+      "lat": 55.331815,
+      "type": "taka"
+    },
+    {
+      "title": "Labanoras gāršas izziņas taka",
+      "lon": 25.822257,
+      "lat": 55.263761,
+      "type": "taka"
+    },
+    {
+      "title": "Tulķarages izziņas taka",
+      "lon": 21.353738,
+      "lat": 55.356442,
+      "type": "taka"
+    },
+    {
+      "title": "Šilpelkes jeb Dauginču meža izziņas taka",
+      "lon": 21.539474,
+      "lat": 55.951345,
+      "type": "taka"
+    },
+    {
+      "title": "Biržai Smardonės šaltinis takas",
+      "lon": 24.755619,
+      "lat": 56.202407,
+      "type": "taka"
+    },
+    {
+      "title": "Kangaru lieguma dabas taka",
+      "lon": 24.729908,
+      "lat": 56.919727,
+      "type": "taka"
+    },
+    {
+      "title": "Usmas Elkraga dabas taka",
+      "lon": 22.15261,
+      "lat": 57.20721,
+      "type": "taka"
+    },
+    {
+      "title": "Būšnieku ezera dabas taka",
+      "lon": 21.62905,
+      "lat": 57.45294,
+      "type": "taka"
+    },
+    {
+      "title": "Taka uz Lielbātas avotu",
+      "lon": 21.85927,
+      "lat": 56.44316,
+      "type": "taka"
+    },
+    {
+      "title": "Volzbaha dabas taka",
+      "lon": 21.84496,
+      "lat": 56.43446,
+      "type": "taka"
+    },
+    {
+      "title": "Atpūtas parks “Laumas”",
+      "lon": 22.52713,
+      "lat": 57.37181,
+      "type": "taka"
+    },
+    {
+      "title": "Zirgu taka un Mīlestības taka",
+      "lon": 22.59271,
+      "lat": 57.02451,
+      "type": "taka"
+    },
+    {
+      "title": "Pastaigu taka \"Rīti\"",
+      "lon": 22.62033,
+      "lat": 57.25265,
+      "type": "taka"
+    },
+    {
+      "title": "Drubazu botānikas taka",
+      "lon": 22.59662,
+      "lat": 57.0304,
+      "type": "taka"
+    },
+    {
+      "title": "Taka uz Māras kambaru alām",
+      "lon": 22.3769,
+      "lat": 57.0824,
+      "type": "taka"
+    },
+    {
+      "title": "Sātiņu dīķi",
+      "lon": 22.3498,
+      "lat": 56.62741,
+      "type": "taka"
+    },
+    {
+      "title": "Papes Dabas procesu taka",
+      "lon": 21.03089,
+      "lat": 56.15066,
+      "type": "taka"
+    },
+    {
+      "title": "Brīvdabas taka gar Rojas upi",
+      "lon": 22.78451,
+      "lat": 57.50824,
+      "type": "taka"
+    },
+    {
+      "title": "Pastaigu laipas Rojas pludmalē",
+      "lon": 22.79975,
+      "lat": 57.50994,
+      "type": "taka"
+    },
+    {
+      "title": "Pāvilostas pludmales taka",
+      "lon": 21.18531,
+      "lat": 56.89303,
+      "type": "taka"
+    },
+    {
+      "title": "Dabas taka \"Bernāti\"",
+      "lon": 20.99273,
+      "lat": 56.32893,
+      "type": "taka"
+    },
+    {
+      "title": "Liepājas ezera Zirgu salas taka",
+      "lon": 21.03084,
+      "lat": 56.51718,
+      "type": "taka"
+    },
+    {
+      "title": "Ventas upes kreisā krasta taka",
+      "lon": 21.9765,
+      "lat": 56.96763,
+      "type": "taka"
+    },
+    {
+      "title": "Ālandes upes parka taka",
+      "lon": 21.1626,
+      "lat": 56.53513,
+      "type": "taka"
+    },
+    {
+      "title": "Brocēnu mežaparka takas",
+      "lon": 22.5686,
+      "lat": 56.66974,
+      "type": "taka"
+    },
+    {
+      "title": "Šeirės pažintinis takas",
+      "lon": 21.827357,
+      "lat": 56.048411,
+      "type": "taka"
+    },
+    {
+      "title": "Plateliai ir jų apylinkės",
+      "lon": 21.81529,
+      "lat": 56.04229,
+      "type": "taka"
+    },
+    {
+      "title": "Paplatelės pažintinis takas",
+      "lon": 21.885817,
+      "lat": 56.046841,
+      "type": "taka"
+    },
+    {
+      "title": "Mikytų pažintinis takas",
+      "lon": 21.82533,
+      "lat": 56.12722,
+      "type": "taka"
+    },
+    {
+      "title": "Ēvažu dabas taka",
+      "lon": 22.568,
+      "lat": 57.67759,
+      "type": "taka"
+    },
+    {
+      "title": "Satiķu dabas taka",
+      "lon": 22.53467,
+      "lat": 56.80334,
+      "type": "taka"
+    },
+    {
+      "title": "Kazdangas pils taka",
+      "lon": 21.73375,
+      "lat": 56.73229,
+      "type": "taka"
+    },
+    {
+      "title": "Tuhu hiking trail (1 km)",
+      "lon": 23.831496,
+      "lat": 58.572353,
+      "type": "taka"
+    },
+    {
+      "title": "Rumpo hiking trail (6,7 km)",
+      "lon": 23.265418,
+      "lat": 58.970218,
+      "type": "taka"
+    },
+    {
+      "title": "Viidumäe study trail (1,6 km)",
+      "lon": 22.097812,
+      "lat": 58.297766,
+      "type": "taka"
+    },
+    {
+      "title": "Tahu study trail (1,4 km)",
+      "lon": 23.563825,
+      "lat": 58.98181944,
+      "type": "taka"
+    },
+    {
+      "title": "Saunja study trail (1.2 km)",
+      "lon": 23.647804,
+      "lat": 58.989838,
+      "type": "taka"
+    },
+    {
+      "title": "Saare study trail (1 km)",
+      "lon": 23.565549,
+      "lat": 59.032857,
+      "type": "taka"
+    },
+    {
+      "title": "Piusa hiking trail (1.4 km)",
+      "lon": 27.466052,
+      "lat": 57.841,
+      "type": "taka"
+    },
+    {
+      "title": "Vällamäe hiking trail (2.2 km)",
+      "lon": 27.060099,
+      "lat": 57.730617,
+      "type": "taka"
+    },
+    {
+      "title": "Rõuge primeval valley hiking trail (10 km)",
+      "lon": 26.9345,
+      "lat": 57.72783,
+      "type": "taka"
+    },
+    {
+      "title": "Sopa spring study trail (900 m)",
+      "lon": 26.048027,
+      "lat": 58.871294,
+      "type": "taka"
+    },
+    {
+      "title": "Võlingi spring hiking trail (2.4 km)",
+      "lon": 26.060358,
+      "lat": 58.863061,
+      "type": "taka"
+    },
+    {
+      "title": "Selli-Sillaotsa study trail (4.7 km)",
+      "lon": 26.268727,
+      "lat": 58.435041,
+      "type": "taka"
+    },
+    {
+      "title": "Rebäse landscape trail (7 km)",
+      "lon": 26.417718,
+      "lat": 57.744427,
+      "type": "taka"
+    },
+    {
+      "title": "Tsitre trail of trees (0.5 km)",
+      "lon": 25.514663,
+      "lat": 59.517212,
+      "type": "taka"
+    },
+    {
+      "title": "Viru bog nature trail (3.5 km)",
+      "lon": 25.638328,
+      "lat": 59.464375,
+      "type": "taka"
+    },
+    {
+      "title": "Võsu–Nõmmeveski hiking trail (18 km)",
+      "lon": 25.973949,
+      "lat": 59.567794,
+      "type": "taka"
+    },
+    {
+      "title": "Riisa study trail (4.8 km)",
+      "lon": 24.981708,
+      "lat": 58.488544,
+      "type": "taka"
+    },
+    {
+      "title": "Salevere hiking trail (1.5 km)",
+      "lon": 23.580652,
+      "lat": 58.69032,
+      "type": "taka"
+    },
+    {
+      "title": "Vilsandi hiking trail (6 km and 8 km)",
+      "lon": 21.842689,
+      "lat": 58.378339,
+      "type": "taka"
+    },
+    {
+      "title": "Viitna nature study trail (7 km)",
+      "lon": 26.013848,
+      "lat": 59.44744,
+      "type": "taka"
+    },
+    {
+      "title": "Tabasalu nature study trail (3.5 km)",
+      "lon": 24.543572,
+      "lat": 59.43468,
+      "type": "taka"
+    },
+    {
+      "title": "Valgejärve nature trail (6.5 km)",
+      "lon": 24.151917,
+      "lat": 59.096139,
+      "type": "taka"
+    },
+    {
+      "title": "Tädu nature study trail (3.5 km)",
+      "lon": 24.895847,
+      "lat": 59.520374,
+      "type": "taka"
+    },
+    {
+      "title": "Seljamäe study trail (5.5 km)",
+      "lon": 26.758219,
+      "lat": 59.1795,
+      "type": "taka"
+    },
+    {
+      "title": "Uljaste hiking trail (3.8 km)",
+      "lon": 26.759613,
+      "lat": 59.378717,
+      "type": "taka"
+    },
+    {
+      "title": "Selisoo hiking trail (4 km)",
+      "lon": 27.244229,
+      "lat": 59.176223,
+      "type": "taka"
+    },
+    {
+      "title": "Poruni hiking trail (5 km)",
+      "lon": 27.7975472,
+      "lat": 59.1743389,
+      "type": "taka"
+    },
+    {
+      "title": "Uuejärve nature trail (6 km)",
+      "lon": 25.657219,
+      "lat": 59.325122,
+      "type": "taka"
+    },
+    {
+      "title": "Sõõriksoo nature trail (1.5 km)",
+      "lon": 25.610334,
+      "lat": 59.284866,
+      "type": "taka"
+    },
+    {
+      "title": "Tammsaare - Järva-Madise nature trail (5 km)",
+      "lon": 25.592654,
+      "lat": 59.112726,
+      "type": "taka"
+    },
+    {
+      "title": "Simisalu-Matsimäe nature trail (7.5 km)",
+      "lon": 25.562309,
+      "lat": 59.105224,
+      "type": "taka"
+    },
+    {
+      "title": "Tiksoja hiking trails (1+2 km)",
+      "lon": 26.662782,
+      "lat": 58.396495,
+      "type": "taka"
+    },
+    {
+      "title": "Tammeluha hiking trail (3 km)",
+      "lon": 26.845197,
+      "lat": 58.648698,
+      "type": "taka"
+    },
+    {
+      "title": "Pikksaare hiking trail (1 km)",
+      "lon": 26.570908,
+      "lat": 58.199803,
+      "type": "taka"
+    },
+    {
+      "title": "Taevaskoja-Otteni-Taevaskoja hiking trail (3,8 km)",
+      "lon": 27.051642,
+      "lat": 58.108083,
+      "type": "taka"
+    },
+    {
+      "title": "Voorepalu Põrgurada trail (0,5 km)",
+      "lon": 26.871944,
+      "lat": 58.152422,
+      "type": "taka"
+    },
+    {
+      "title": "Tilleoru hiking trail (4,5 km)",
+      "lon": 26.920035,
+      "lat": 58.013982,
+      "type": "taka"
+    },
+    {
+      "title": "Sangaste forest park study trail (3,0 km)",
+      "lon": 26.278266,
+      "lat": 57.90165,
+      "type": "taka"
+    },
+    {
+      "title": "Valgesoo study trail (1,9 km)",
+      "lon": 27.05725,
+      "lat": 58.153267,
+      "type": "taka"
+    },
+    {
+      "title": "Roiupalu study trail (2.5 km)",
+      "lon": 27.020814,
+      "lat": 58.138947,
+      "type": "taka"
+    },
+    {
+      "title": "Soontaga hiking trail (2.9 km)",
+      "lon": 26.067585,
+      "lat": 58.021916,
+      "type": "taka"
+    },
+    {
+      "title": "Taevaskodade hiking trail (3 km)",
+      "lon": 27.047495,
+      "lat": 58.115161,
+      "type": "taka"
+    },
+    {
+      "title": "Tõrvandu forest study trail (3 km)",
+      "lon": 26.765867,
+      "lat": 57.633278,
+      "type": "taka"
+    },
+    {
+      "title": "Piusa river valley hiking trail (15 km)",
+      "lon": 27.361827,
+      "lat": 57.729162,
+      "type": "taka"
+    },
+    {
+      "title": "Verijärve hiking trail (1 km)",
+      "lon": 27.0527,
+      "lat": 57.81165,
+      "type": "taka"
+    },
+    {
+      "title": "Taagepera hiking trail (5.4 km)",
+      "lon": 25.67184,
+      "lat": 57.996496,
+      "type": "taka"
+    },
+    {
+      "title": "Vanapagana study trail (3 km)",
+      "lon": 25.368015,
+      "lat": 58.632365,
+      "type": "taka"
+    },
+    {
+      "title": "Saarjõe study trail (8 km)",
+      "lon": 25.285768,
+      "lat": 58.634418,
+      "type": "taka"
+    },
+    {
+      "title": "Teringi study trail (4.5 km)",
+      "lon": 25.558283,
+      "lat": 57.9828,
+      "type": "taka"
+    },
+    {
+      "title": "Sinialliku hiking trail (1.3 km)",
+      "lon": 25.54895,
+      "lat": 58.31014,
+      "type": "taka"
+    },
+    {
+      "title": "Sakala Road hiking trail (12 km)",
+      "lon": 25.34858,
+      "lat": 58.58262,
+      "type": "taka"
+    },
+    {
+      "title": "Rannametsa–Tolkuse nature study trail (2.2 km)",
+      "lon": 24.511862,
+      "lat": 58.13457,
+      "type": "taka"
+    },
+    {
+      "title": "Sandra hiking trail (~300 m)",
+      "lon": 24.871336,
+      "lat": 57.987649,
+      "type": "taka"
+    },
+    {
+      "title": "Tammiste forest trail (2.8 km)",
+      "lon": 24.5712,
+      "lat": 58.372467,
+      "type": "taka"
+    },
+    {
+      "title": "Viieristi hiking trail (1 km)",
+      "lon": 22.172995,
+      "lat": 58.027191,
+      "type": "taka"
+    },
+    {
+      "title": "Tihu study trail (1.2 km)",
+      "lon": 22.52584722,
+      "lat": 58.85324722,
+      "type": "taka"
+    },
+    {
+      "title": "Ristna study trail (1.5 km)",
+      "lon": 22.094441,
+      "lat": 58.92542,
+      "type": "taka"
+    },
+    {
+      "title": "Vanajõe valley study trail (1 km)",
+      "lon": 22.43416,
+      "lat": 58.88593,
+      "type": "taka"
+    },
+    {
+      "title": "Rebastemäe study trail (1.5 km)",
+      "lon": 22.24028,
+      "lat": 58.91816,
+      "type": "taka"
+    },
+    {
+      "title": "Skrīveru Kalnamuižas taka",
+      "lon": 25.04254,
+      "lat": 56.62314,
+      "type": "taka"
+    },
+    {
+      "title": "Līdumu karjera taka",
+      "lon": 23.8749166,
+      "lat": 56.784567,
+      "type": "taka"
+    },
+    {
+      "title": "Kazdangas parka taka",
+      "lon": 21.73576,
+      "lat": 56.7248,
+      "type": "taka"
+    },
+    {
+      "title": "Pilssalas taka",
+      "lon": 23.72912,
+      "lat": 56.66048,
+      "type": "taka"
+    },
+    {
+      "title": "Akmeņupes dabas taka",
+      "lon": 26.14555,
+      "lat": 56.06705,
+      "type": "taka"
+    },
+    {
+      "title": "Akmeņu taka",
+      "lon": 27.3871,
+      "lat": 56.2916,
+      "type": "taka"
+    },
+    {
+      "title": "Aklā purva taka",
+      "lon": 25.10556,
+      "lat": 56.51011,
+      "type": "taka"
+    },
+    {
+      "title": "Adamovas taka",
+      "lon": 27.134514,
+      "lat": 55.892502,
+      "type": "taka"
+    },
+    {
+      "title": "Andrupenes purva taka",
+      "lon": 27.3929929733,
+      "lat": 56.184355671,
+      "type": "taka"
+    },
+    {
+      "title": "Amatas ģeotaka",
+      "lon": 25.23488,
+      "lat": 57.22222,
+      "type": "taka"
+    },
+    {
+      "title": "Lielā Ķemeru tīreļa laipa",
+      "lon": 23.46516,
+      "lat": 56.91659,
+      "type": "taka"
+    },
+    {
+      "title": "Kartavkalna taka",
+      "lon": 23.017921,
+      "lat": 56.716568,
+      "type": "taka"
+    },
+    {
+      "title": "Kaņiera niedrāja taka",
+      "lon": 23.4761,
+      "lat": 56.99764,
+      "type": "taka"
+    },
+    {
+      "title": "Kaņiera pilskalna taka",
+      "lon": 23.42585,
+      "lat": 56.99191,
+      "type": "taka"
+    },
+    {
+      "title": "Kaltenes kalvas",
+      "lon": 22.855719,
+      "lat": 57.458136,
+      "type": "taka"
+    },
+    {
+      "title": "Kalnu dabas taka",
+      "lon": 22.115837,
+      "lat": 56.458694,
+      "type": "taka"
+    },
+    {
+      "title": "Jušu dabas taka",
+      "lon": 24.85332,
+      "lat": 57.16621,
+      "type": "taka"
+    },
+    {
+      "title": "Jānīša dabas taka",
+      "lon": 23.03877,
+      "lat": 57.11317,
+      "type": "taka"
+    },
+    {
+      "title": "Imulas upes taka",
+      "lon": 22.6245833,
+      "lat": 57.0126641,
+      "type": "taka"
+    },
+    {
+      "title": "Ilgāja naudas akmens taka",
+      "lon": 26.874,
+      "lat": 57.5865,
+      "type": "taka"
+    },
+    {
+      "title": "Gaujienas taka",
+      "lon": 26.38903,
+      "lat": 57.52202,
+      "type": "taka"
+    },
+    {
+      "title": "Gārsenes parks",
+      "lon": 25.81126,
+      "lat": 56.1,
+      "type": "taka"
+    },
+    {
+      "title": "Embūtes pilskalns",
+      "lon": 21.8182,
+      "lat": 56.51089,
+      "type": "taka"
+    },
+    {
+      "title": "Dunikas purva taka",
+      "lon": 21.382775,
+      "lat": 56.280701,
+      "type": "taka"
+    },
+    {
+      "title": "Drusku pilskalna taka",
+      "lon": 26.93333,
+      "lat": 57.59448,
+      "type": "taka"
+    },
+    {
+      "title": "Daugavgrīvas mols",
+      "lon": 24.02154,
+      "lat": 57.04642,
+      "type": "taka"
+    },
+    {
+      "title": "Čužu purva taka",
+      "lon": 22.78538,
+      "lat": 57.02638,
+      "type": "taka"
+    },
+    {
+      "title": "Cīrulīšu dabas taka",
+      "lon": 25.2213,
+      "lat": 57.30722,
+      "type": "taka"
+    },
+    {
+      "title": "Ciriša ezera upursalas taka",
+      "lon": 26.9898,
+      "lat": 56.131985,
+      "type": "taka"
+    },
+    {
+      "title": "Cenas tīreļa laipa",
+      "lon": 23.78864,
+      "lat": 56.862713,
+      "type": "taka"
+    },
+    {
+      "title": "Cecīļu dabas taka",
+      "lon": 25.165,
+      "lat": 57.21873,
+      "type": "taka"
+    },
+    {
+      "title": "Kalnansu purva taka",
+      "lon": 22.394389,
+      "lat": 56.905859,
+      "type": "taka"
+    },
+    {
+      "title": "Bebru taka",
+      "lon": 27.079416,
+      "lat": 57.278229,
+      "type": "taka"
+    },
+    {
+      "title": "Saulrieta taka",
+      "lon": 24.39314,
+      "lat": 57.23362,
+      "type": "taka"
+    },
+    {
+      "title": "Randu pļavu taka",
+      "lon": 24.3445014954,
+      "lat": 57.8335461333,
+      "type": "taka"
+    },
+    {
+      "title": "Randatu taka",
+      "lon": 26.34558,
+      "lat": 57.44544,
+      "type": "taka"
+    },
+    {
+      "title": "Raipala ezera taka",
+      "lon": 26.9501168,
+      "lat": 57.58991,
+      "type": "taka"
+    },
+    {
+      "title": "Ragakāpas dabas taka",
+      "lon": 23.919282,
+      "lat": 56.995699,
+      "type": "taka"
+    },
+    {
+      "title": "Purezera taka",
+      "lon": 24.927314,
+      "lat": 57.67974,
+      "type": "taka"
+    },
+    {
+      "title": "Pūrciema baltās kāpas taka",
+      "lon": 22.62787,
+      "lat": 57.576864,
+      "type": "taka"
+    },
+    {
+      "title": "Pokaiņu mežs",
+      "lon": 23.070652,
+      "lat": 56.576725,
+      "type": "taka"
+    },
+    {
+      "title": "Planču purva taka",
+      "lon": 24.753968,
+      "lat": 57.881084,
+      "type": "taka"
+    },
+    {
+      "title": "Pilskalnes Siguldiņa",
+      "lon": 26.26633,
+      "lat": 55.97714,
+      "type": "taka"
+    },
+    {
+      "title": "Pēterezera dabas taka",
+      "lon": 22.2706833,
+      "lat": 57.6543666,
+      "type": "taka"
+    },
+    {
+      "title": "Pēteralas Raganu katla taka",
+      "lon": 24.87426,
+      "lat": 57.17008,
+      "type": "taka"
+    },
+    {
+      "title": "Peļļu taka",
+      "lon": 26.873673,
+      "lat": 57.586597,
+      "type": "taka"
+    },
+    {
+      "title": "Papes ezers",
+      "lon": 21.0485,
+      "lat": 56.152,
+      "type": "taka"
+    },
+    {
+      "title": "Orhideju taka",
+      "lon": 23.13511,
+      "lat": 57.26036,
+      "type": "taka"
+    },
+    {
+      "title": "Numernes vaļņa taka",
+      "lon": 27.4908,
+      "lat": 56.84906,
+      "type": "taka"
+    },
+    {
+      "title": "Niedrāju pilkas purvs",
+      "lon": 24.639322,
+      "lat": 57.741426,
+      "type": "taka"
+    },
+    {
+      "title": "Mitoloģiskā taka pie Līgatnes bunkura",
+      "lon": 25.069419,
+      "lat": 57.255841,
+      "type": "taka"
+    },
+    {
+      "title": "Mīlestības taka",
+      "lon": 25.49062,
+      "lat": 57.54627,
+      "type": "taka"
+    },
+    {
+      "title": "Mežmuižas avoti",
+      "lon": 24.8022831,
+      "lat": 57.1004198,
+      "type": "taka"
+    },
+    {
+      "title": "Melnalkšņu dumbrāja taka",
+      "lon": 23.5116702318,
+      "lat": 56.9527769819,
+      "type": "taka"
+    },
+    {
+      "title": "Mālpils dabas taka",
+      "lon": 24.99033,
+      "lat": 57.010593,
+      "type": "taka"
+    },
+    {
+      "title": "Līgatnes upes taka",
+      "lon": 25.160309,
+      "lat": 57.127999,
+      "type": "taka"
+    },
+    {
+      "title": "Līgatnes dabas takas",
+      "lon": 25.01545,
+      "lat": 57.24806,
+      "type": "taka"
+    },
+    {
+      "title": "Lielezera dabas taka",
+      "lon": 24.70406,
+      "lat": 57.50258,
+      "type": "taka"
+    },
+    {
+      "title": "Līču Laņģu klintis",
+      "lon": 25.4170417,
+      "lat": 57.390544,
+      "type": "taka"
+    },
+    {
+      "title": "Lāčupes dendroloģiskā taka",
+      "lon": 23.35242,
+      "lat": 57.0464,
+      "type": "taka"
+    },
+    {
+      "title": "Kupskalnu dabas taka",
+      "lon": 23.52379,
+      "lat": 56.99134,
+      "type": "taka"
+    },
+    {
+      "title": "Kubeseles dabas taka",
+      "lon": 24.76881,
+      "lat": 57.16365,
+      "type": "taka"
+    },
+    {
+      "title": "Kolkas priežu taka",
+      "lon": 22.59055137,
+      "lat": 57.75634249,
+      "type": "taka"
+    },
+    {
+      "title": "Kokšu ezera taka",
+      "lon": 26.071,
+      "lat": 57.6753,
+      "type": "taka"
+    },
+    {
+      "title": "Kokneses dabas taka",
+      "lon": 25.43403,
+      "lat": 56.64129,
+      "type": "taka"
+    },
+    {
+      "title": "Ķirbižu meža taka",
+      "lon": 24.49082,
+      "lat": 57.651,
+      "type": "taka"
+    },
+    {
+      "title": "Zīles taka",
+      "lon": 26.04685,
+      "lat": 57.70281,
+      "type": "taka"
+    },
+    {
+      "title": "Žibgravas veselības taka",
+      "lon": 21.578783,
+      "lat": 56.984217,
+      "type": "taka"
+    },
+    {
+      "title": "Zaķumuižas dabas taka",
+      "lon": 24.48797,
+      "lat": 56.96952,
+      "type": "taka"
+    },
+    {
+      "title": "Vilces dabas parks",
+      "lon": 23.54218,
+      "lat": 56.42098,
+      "type": "taka"
+    },
+    {
+      "title": "Vizlas taka",
+      "lon": 26.34762,
+      "lat": 57.43061,
+      "type": "taka"
+    },
+    {
+      "title": "Virsaišu ūdenskrituma taka",
+      "lon": 22.54209,
+      "lat": 57.09328,
+      "type": "taka"
+    },
+    {
+      "title": "Vikmestes taka",
+      "lon": 24.8227603,
+      "lat": 57.1790199,
+      "type": "taka"
+    },
+    {
+      "title": "Viesatas upesloku taka",
+      "lon": 22.9720596,
+      "lat": 56.8236003,
+      "type": "taka"
+    },
+    {
+      "title": "Vesetas purva laipa",
+      "lon": 25.8236047,
+      "lat": 56.6964547,
+      "type": "taka"
+    },
+    {
+      "title": "Vedzes dabas taka",
+      "lon": 25.43373,
+      "lat": 56.95766,
+      "type": "taka"
+    },
+    {
+      "title": "Vasenieku purva taka",
+      "lon": 22.15384,
+      "lat": 57.35642,
+      "type": "taka"
+    },
+    {
+      "title": "Valguma mākslas",
+      "lon": 23.31532,
+      "lat": 56.99007,
+      "type": "taka"
+    },
+    {
+      "title": "Valguma baskāju taka",
+      "lon": 23.31575,
+      "lat": 56.98946,
+      "type": "taka"
+    },
+    {
+      "title": "Vaidavas dabas taka",
+      "lon": 26.70534,
+      "lat": 57.54041,
+      "type": "taka"
+    },
+    {
+      "title": "Ukru gārša",
+      "lon": 23.2103455067,
+      "lat": 56.3798781727,
+      "type": "taka"
+    },
+    {
+      "title": "Tīrumnieku purva taka",
+      "lon": 26.946231,
+      "lat": 56.717542,
+      "type": "taka"
+    },
+    {
+      "title": "Tērvetes dabas parks",
+      "lon": 23.37283,
+      "lat": 56.48766,
+      "type": "taka"
+    },
+    {
+      "title": "Tālivalža grava",
+      "lon": 25.552021,
+      "lat": 56.255963,
+      "type": "taka"
+    },
+    {
+      "title": "Strenču pilsētas taka",
+      "lon": 25.712355,
+      "lat": 57.628508,
+      "type": "taka"
+    },
+    {
+      "title": "Stiglovas grava",
+      "lon": 27.5578813,
+      "lat": 57.0389982,
+      "type": "taka"
+    },
+    {
+      "title": "Slokas ezera dabas taka",
+      "lon": 23.54637,
+      "lat": 56.95731,
+      "type": "taka"
+    },
+    {
+      "title": "Šlīteres dabas taka",
+      "lon": 22.2891495,
+      "lat": 57.6287644,
+      "type": "taka"
+    },
+    {
+      "title": "Skaņākalna taka",
+      "lon": 25.0260725,
+      "lat": 57.8632307,
+      "type": "taka"
+    },
+    {
+      "title": "Sietiņiezis un taka",
+      "lon": 25.38287,
+      "lat": 57.43068,
+      "type": "taka"
+    },
+    {
+      "title": "Tilderu dabas taka",
+      "lon": 26.34319,
+      "lat": 57.4544,
+      "type": "taka"
+    },
+    {
+      "title": "Sēra dīķu taka",
+      "lon": 23.46959,
+      "lat": 56.96515,
+      "type": "taka"
+    },
+    {
+      "title": "Cīravas mežaparks",
+      "lon": 21.381088,
+      "lat": 56.733285,
+      "type": "taka"
+    },
+    {
+      "title": "Šauklių riedulynas - kadagynas",
+      "lon": 21.5907291793,
+      "lat": 56.1260400524,
+      "type": "taka"
+    },
+    {
+      "title": "Litorina",
+      "lon": 21.0723935867,
+      "lat": 55.7947755364,
+      "type": "taka"
+    },
+    {
+      "title": "Aukštumalos pažintinis takas",
+      "lon": 21.3629298632,
+      "lat": 55.3819086684,
+      "type": "taka"
+    },
+    {
+      "title": "Žagare Ozo takas",
+      "lon": 23.21444,
+      "lat": 56.35123,
+      "type": "taka"
+    },
+    {
+      "title": "Ziemassvētku kauju taka",
+      "lon": 23.70139,
+      "lat": 56.82956,
+      "type": "taka"
+    },
+    {
+      "title": "Rīvas loki",
+      "lon": 21.34781,
+      "lat": 56.97027,
+      "type": "taka"
+    }
+  ]

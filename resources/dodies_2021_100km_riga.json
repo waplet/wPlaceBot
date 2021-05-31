@@ -1,0 +1,836 @@
+[
+    {
+      "title": "Cieceres ezera skatu tornis",
+      "lon": 22.555098,
+      "lat": 56.656971,
+      "type": "tornis"
+    },
+    {
+      "title": "Sātiņu putnu tornis",
+      "lon": 22.334589,
+      "lat": 56.636941,
+      "type": "tornis"
+    },
+    {
+      "title": "Dzintaru mežaparka skatu tornis",
+      "lon": 23.8178046,
+      "lat": 56.9762514,
+      "type": "tornis"
+    },
+    {
+      "title": "Riekstukalna skatu tornis",
+      "lon": 24.401681,
+      "lat": 56.774971,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaņiera pilskalna tornis",
+      "lon": 23.4336358,
+      "lat": 56.9915415,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaņiera ezera putnu tornis",
+      "lon": 23.471067,
+      "lat": 57.000673,
+      "type": "tornis"
+    },
+    {
+      "title": "Kamparkalna skatu tornis",
+      "lon": 22.643767,
+      "lat": 57.214432,
+      "type": "tornis"
+    },
+    {
+      "title": "Kaltenes putnu tornis",
+      "lon": 22.909638,
+      "lat": 57.438396,
+      "type": "tornis"
+    },
+    {
+      "title": "Engures ezera Z tornis",
+      "lon": 23.089361,
+      "lat": 57.3178117,
+      "type": "tornis"
+    },
+    {
+      "title": "Engures ezera putnu tornis",
+      "lon": 23.12672,
+      "lat": 57.27163,
+      "type": "tornis"
+    },
+    {
+      "title": "Dunduru pļavu tornis",
+      "lon": 23.4011805,
+      "lat": 56.8335449,
+      "type": "tornis"
+    },
+    {
+      "title": "Daugavgrīvas tornis",
+      "lon": 24.0131503,
+      "lat": 57.039653,
+      "type": "tornis"
+    },
+    {
+      "title": "Cenas tīreļa tornis II",
+      "lon": 23.8253741,
+      "lat": 56.8527813,
+      "type": "tornis"
+    },
+    {
+      "title": "Cenas tīreļa tornis I",
+      "lon": 23.7940049,
+      "lat": 56.8621035,
+      "type": "tornis"
+    },
+    {
+      "title": "Bumbu kalna tornis",
+      "lon": 24.0201817,
+      "lat": 57.0039713,
+      "type": "tornis"
+    },
+    {
+      "title": "Ogres zilo kalnu tornis",
+      "lon": 24.56513,
+      "lat": 56.83409,
+      "type": "tornis"
+    },
+    {
+      "title": "Mērsrags - pļavas tornis",
+      "lon": 23.1242854,
+      "lat": 57.3440937,
+      "type": "tornis"
+    },
+    {
+      "title": "Mērsrags - bākas tornis",
+      "lon": 23.1232924,
+      "lat": 57.3655392,
+      "type": "tornis"
+    },
+    {
+      "title": "Ložmetējkalns",
+      "lon": 23.66051,
+      "lat": 56.86587,
+      "type": "tornis"
+    },
+    {
+      "title": "Kuivižu putnu tornis",
+      "lon": 24.335983,
+      "lat": 57.825652,
+      "type": "tornis"
+    },
+    {
+      "title": "Ķengaraga putnu tornis",
+      "lon": 24.19276,
+      "lat": 56.89936,
+      "type": "tornis"
+    },
+    {
+      "title": "Slokas ezera putnu tornis",
+      "lon": 23.547032475,
+      "lat": 56.957612319,
+      "type": "tornis"
+    },
+    {
+      "title": "Zvirgzdes kāpa",
+      "lon": 24.48121,
+      "lat": 56.65969,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Zaķu pļava'",
+      "lon": 23.5292126239828,
+      "lat": 56.4229674126421,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Kalnamuižas ezers'",
+      "lon": 25.0427963101618,
+      "lat": 56.6232348783004,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Doles sala'",
+      "lon": 24.2015150845732,
+      "lat": 56.8657452005153,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Kalnciema skolas taka'",
+      "lon": 23.6289593949239,
+      "lat": 56.8086256718253,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta 'Liliju ezers'",
+      "lon": 24.4121895057699,
+      "lat": 56.7727628959356,
+      "type": "pikniks"
+    },
+    {
+      "title": "Skolas ceļa atpūtas vieta",
+      "lon": 23.6598707603098,
+      "lat": 56.8144699817073,
+      "type": "pikniks"
+    },
+    {
+      "title": "Garie kalni",
+      "lon": 23.65212341521312,
+      "lat": 56.627014764822725,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kaltene",
+      "lon": 22.774953116882838,
+      "lat": 57.41343274975735,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Ārijas-Jankovski ceļa",
+      "lon": 23.87520925733802,
+      "lat": 56.64713285725034,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta \"Zīvartiņš\"",
+      "lon": 23.283208957877324,
+      "lat": 57.072817793606625,
+      "type": "pikniks"
+    },
+    {
+      "title": "Bleķa brieža atpūtas vieta",
+      "lon": 25.013271720292398,
+      "lat": 56.57299410969961,
+      "type": "pikniks"
+    },
+    {
+      "title": "Silenieku atpūtas vieta",
+      "lon": 25.126164091431377,
+      "lat": 56.47114508046278,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pieci ceļi",
+      "lon": 24.506031339138236,
+      "lat": 56.71048922044683,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jūgu krustojuma atpūtas vieta",
+      "lon": 25.08919581198781,
+      "lat": 56.48081180370173,
+      "type": "pikniks"
+    },
+    {
+      "title": "Sēņotāju māja",
+      "lon": 24.585716535412356,
+      "lat": 56.74959319132516,
+      "type": "pikniks"
+    },
+    {
+      "title": "Likvertene",
+      "lon": 24.30062272301821,
+      "lat": 56.4175458186168,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 2",
+      "lon": 24.919247042954588,
+      "lat": 56.631385681364264,
+      "type": "pikniks"
+    },
+    {
+      "title": "Pakuļu ezers",
+      "lon": 24.521213411671646,
+      "lat": 56.73721469779863,
+      "type": "pikniks"
+    },
+    {
+      "title": "Kausu ezers",
+      "lon": 24.511826743025473,
+      "lat": 56.75002015356018,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 3",
+      "lon": 24.920194834278714,
+      "lat": 56.63094784512249,
+      "type": "pikniks"
+    },
+    {
+      "title": "Aklais ezers",
+      "lon": 24.90466251579528,
+      "lat": 56.565273360940395,
+      "type": "pikniks"
+    },
+    {
+      "title": "Daugavmalas atpūtas vieta 1",
+      "lon": 24.9164643560422,
+      "lat": 56.632654797497466,
+      "type": "pikniks"
+    },
+    {
+      "title": "Piebalgas",
+      "lon": 24.431958623942464,
+      "lat": 56.680621711617874,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Baltezera",
+      "lon": 25.031330115326803,
+      "lat": 56.49840919518641,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Carnikavas",
+      "lon": 24.277486,
+      "lat": 57.133691,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta ceļā uz Ložmetējkalnu",
+      "lon": 23.637536,
+      "lat": 56.864164,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ako piemiņas vieta",
+      "lon": 24.387388,
+      "lat": 56.843189,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Vasas",
+      "lon": 24.37807,
+      "lat": 57.52097,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta Riebiņu ezers",
+      "lon": 24.963482,
+      "lat": 57.374589,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta piecu ceļu krustā",
+      "lon": 23.696597,
+      "lat": 56.836104,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Pīļezera",
+      "lon": 24.894032,
+      "lat": 57.285527,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vieta pie Lašupes dzirnavu dīķa",
+      "lon": 22.291644,
+      "lat": 56.710623,
+      "type": "pikniks"
+    },
+    {
+      "title": "Engures ezera atpūtas vietas",
+      "lon": 23.13675,
+      "lat": 57.25762,
+      "type": "pikniks"
+    },
+    {
+      "title": "Elles kalns",
+      "lon": 22.9264,
+      "lat": 56.75499,
+      "type": "pikniks"
+    },
+    {
+      "title": "Augstrozes pilskalns",
+      "lon": 25.013423,
+      "lat": 57.51429,
+      "type": "pikniks"
+    },
+    {
+      "title": "Atpūtas vietas pie Segliņu ezera",
+      "lon": 22.262252,
+      "lat": 57.096683,
+      "type": "pikniks"
+    },
+    {
+      "title": "Salaspils pludmale",
+      "lon": 24.338808,
+      "lat": 56.847531,
+      "type": "pikniks"
+    },
+    {
+      "title": "Plieņciema taka",
+      "lon": 23.259802,
+      "lat": 57.087132,
+      "type": "pikniks"
+    },
+    {
+      "title": "LVM atpūtas vieta",
+      "lon": 25.016386,
+      "lat": 56.483298,
+      "type": "pikniks"
+    },
+    {
+      "title": "Lejas ezera atpūtas vieta",
+      "lon": 24.442064,
+      "lat": 56.784705,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ziloņa ezers",
+      "lon": 22.2809309,
+      "lat": 57.1221528,
+      "type": "pikniks"
+    },
+    {
+      "title": "Vecupes taka",
+      "lon": 23.22156,
+      "lat": 57.17787,
+      "type": "pikniks"
+    },
+    {
+      "title": "Ukru gāršas piknika vietas",
+      "lon": 23.2094711065,
+      "lat": 56.3794742244,
+      "type": "pikniks"
+    },
+    {
+      "title": "Svētes piknika vieta",
+      "lon": 23.63171,
+      "lat": 56.6921,
+      "type": "pikniks"
+    },
+    {
+      "title": "Smiltiņkalns",
+      "lon": 22.749994,
+      "lat": 56.854922,
+      "type": "pikniks"
+    },
+    {
+      "title": "Senču svētkalniņa atpūtas vieta",
+      "lon": 24.403456,
+      "lat": 56.831173,
+      "type": "pikniks"
+    },
+    {
+      "title": "Jāņarāmis",
+      "lon": 25.305252,
+      "lat": 57.361307,
+      "type": "pikniks"
+    },
+    {
+      "title": "Līgatnes pārgājiens",
+      "lon": 25.03921,
+      "lat": 57.23344,
+      "type": "taka"
+    },
+    {
+      "title": "Zaļā kāpa",
+      "lon": 23.473099,
+      "lat": 56.94458,
+      "type": "taka"
+    },
+    {
+      "title": "Svētes palienes pļavas",
+      "lon": 23.68626,
+      "lat": 56.63867,
+      "type": "taka"
+    },
+    {
+      "title": "Gar Lojas krastiem",
+      "lon": 24.65859,
+      "lat": 57.12509,
+      "type": "taka"
+    },
+    {
+      "title": "Green railway: Lāde - Mazsalaca",
+      "lon": 24.6528482,
+      "lat": 57.4339323,
+      "type": "taka"
+    },
+    {
+      "title": "Takas Kirkilų kraštovaizdžio draustinyje",
+      "lon": 24.69088,
+      "lat": 56.24849,
+      "type": "taka"
+    },
+    {
+      "title": "Takas Karajimiškio kraštovaizdžio draustinyje",
+      "lon": 24.69287,
+      "lat": 56.20586,
+      "type": "taka"
+    },
+    {
+      "title": "Kangaru lieguma dabas taka",
+      "lon": 24.729908,
+      "lat": 56.919727,
+      "type": "taka"
+    },
+    {
+      "title": "Atpūtas parks “Laumas”",
+      "lon": 22.52713,
+      "lat": 57.37181,
+      "type": "taka"
+    },
+    {
+      "title": "Zirgu taka un Mīlestības taka",
+      "lon": 22.59271,
+      "lat": 57.02451,
+      "type": "taka"
+    },
+    {
+      "title": "Pastaigu taka \"Rīti\"",
+      "lon": 22.62033,
+      "lat": 57.25265,
+      "type": "taka"
+    },
+    {
+      "title": "Drubazu botānikas taka",
+      "lon": 22.59662,
+      "lat": 57.0304,
+      "type": "taka"
+    },
+    {
+      "title": "Taka uz Māras kambaru alām",
+      "lon": 22.3769,
+      "lat": 57.0824,
+      "type": "taka"
+    },
+    {
+      "title": "Sātiņu dīķi",
+      "lon": 22.3498,
+      "lat": 56.62741,
+      "type": "taka"
+    },
+    {
+      "title": "Brīvdabas taka gar Rojas upi",
+      "lon": 22.78451,
+      "lat": 57.50824,
+      "type": "taka"
+    },
+    {
+      "title": "Pastaigu laipas Rojas pludmalē",
+      "lon": 22.79975,
+      "lat": 57.50994,
+      "type": "taka"
+    },
+    {
+      "title": "Brocēnu mežaparka takas",
+      "lon": 22.5686,
+      "lat": 56.66974,
+      "type": "taka"
+    },
+    {
+      "title": "Satiķu dabas taka",
+      "lon": 22.53467,
+      "lat": 56.80334,
+      "type": "taka"
+    },
+    {
+      "title": "Skrīveru Kalnamuižas taka",
+      "lon": 25.04254,
+      "lat": 56.62314,
+      "type": "taka"
+    },
+    {
+      "title": "Līdumu karjera taka",
+      "lon": 23.8749166,
+      "lat": 56.784567,
+      "type": "taka"
+    },
+    {
+      "title": "Pilssalas taka",
+      "lon": 23.72912,
+      "lat": 56.66048,
+      "type": "taka"
+    },
+    {
+      "title": "Aklā purva taka",
+      "lon": 25.10556,
+      "lat": 56.51011,
+      "type": "taka"
+    },
+    {
+      "title": "Amatas ģeotaka",
+      "lon": 25.23488,
+      "lat": 57.22222,
+      "type": "taka"
+    },
+    {
+      "title": "Lielā Ķemeru tīreļa laipa",
+      "lon": 23.46516,
+      "lat": 56.91659,
+      "type": "taka"
+    },
+    {
+      "title": "Kartavkalna taka",
+      "lon": 23.017921,
+      "lat": 56.716568,
+      "type": "taka"
+    },
+    {
+      "title": "Kaņiera niedrāja taka",
+      "lon": 23.4761,
+      "lat": 56.99764,
+      "type": "taka"
+    },
+    {
+      "title": "Kaņiera pilskalna taka",
+      "lon": 23.42585,
+      "lat": 56.99191,
+      "type": "taka"
+    },
+    {
+      "title": "Kaltenes kalvas",
+      "lon": 22.855719,
+      "lat": 57.458136,
+      "type": "taka"
+    },
+    {
+      "title": "Jušu dabas taka",
+      "lon": 24.85332,
+      "lat": 57.16621,
+      "type": "taka"
+    },
+    {
+      "title": "Jānīša dabas taka",
+      "lon": 23.03877,
+      "lat": 57.11317,
+      "type": "taka"
+    },
+    {
+      "title": "Imulas upes taka",
+      "lon": 22.6245833,
+      "lat": 57.0126641,
+      "type": "taka"
+    },
+    {
+      "title": "Daugavgrīvas mols",
+      "lon": 24.02154,
+      "lat": 57.04642,
+      "type": "taka"
+    },
+    {
+      "title": "Čužu purva taka",
+      "lon": 22.78538,
+      "lat": 57.02638,
+      "type": "taka"
+    },
+    {
+      "title": "Cīrulīšu dabas taka",
+      "lon": 25.2213,
+      "lat": 57.30722,
+      "type": "taka"
+    },
+    {
+      "title": "Cenas tīreļa laipa",
+      "lon": 23.78864,
+      "lat": 56.862713,
+      "type": "taka"
+    },
+    {
+      "title": "Cecīļu dabas taka",
+      "lon": 25.165,
+      "lat": 57.21873,
+      "type": "taka"
+    },
+    {
+      "title": "Kalnansu purva taka",
+      "lon": 22.394389,
+      "lat": 56.905859,
+      "type": "taka"
+    },
+    {
+      "title": "Saulrieta taka",
+      "lon": 24.39314,
+      "lat": 57.23362,
+      "type": "taka"
+    },
+    {
+      "title": "Ragakāpas dabas taka",
+      "lon": 23.919282,
+      "lat": 56.995699,
+      "type": "taka"
+    },
+    {
+      "title": "Pūrciema baltās kāpas taka",
+      "lon": 22.62787,
+      "lat": 57.576864,
+      "type": "taka"
+    },
+    {
+      "title": "Pokaiņu mežs",
+      "lon": 23.070652,
+      "lat": 56.576725,
+      "type": "taka"
+    },
+    {
+      "title": "Pēteralas Raganu katla taka",
+      "lon": 24.87426,
+      "lat": 57.17008,
+      "type": "taka"
+    },
+    {
+      "title": "Orhideju taka",
+      "lon": 23.13511,
+      "lat": 57.26036,
+      "type": "taka"
+    },
+    {
+      "title": "Niedrāju pilkas purvs",
+      "lon": 24.639322,
+      "lat": 57.741426,
+      "type": "taka"
+    },
+    {
+      "title": "Mitoloģiskā taka pie Līgatnes bunkura",
+      "lon": 25.069419,
+      "lat": 57.255841,
+      "type": "taka"
+    },
+    {
+      "title": "Mežmuižas avoti",
+      "lon": 24.8022831,
+      "lat": 57.1004198,
+      "type": "taka"
+    },
+    {
+      "title": "Melnalkšņu dumbrāja taka",
+      "lon": 23.5116702318,
+      "lat": 56.9527769819,
+      "type": "taka"
+    },
+    {
+      "title": "Mālpils dabas taka",
+      "lon": 24.99033,
+      "lat": 57.010593,
+      "type": "taka"
+    },
+    {
+      "title": "Līgatnes upes taka",
+      "lon": 25.160309,
+      "lat": 57.127999,
+      "type": "taka"
+    },
+    {
+      "title": "Līgatnes dabas takas",
+      "lon": 25.01545,
+      "lat": 57.24806,
+      "type": "taka"
+    },
+    {
+      "title": "Lielezera dabas taka",
+      "lon": 24.70406,
+      "lat": 57.50258,
+      "type": "taka"
+    },
+    {
+      "title": "Lāčupes dendroloģiskā taka",
+      "lon": 23.35242,
+      "lat": 57.0464,
+      "type": "taka"
+    },
+    {
+      "title": "Kupskalnu dabas taka",
+      "lon": 23.52379,
+      "lat": 56.99134,
+      "type": "taka"
+    },
+    {
+      "title": "Kubeseles dabas taka",
+      "lon": 24.76881,
+      "lat": 57.16365,
+      "type": "taka"
+    },
+    {
+      "title": "Ķirbižu meža taka",
+      "lon": 24.49082,
+      "lat": 57.651,
+      "type": "taka"
+    },
+    {
+      "title": "Zaķumuižas dabas taka",
+      "lon": 24.48797,
+      "lat": 56.96952,
+      "type": "taka"
+    },
+    {
+      "title": "Vilces dabas parks",
+      "lon": 23.54218,
+      "lat": 56.42098,
+      "type": "taka"
+    },
+    {
+      "title": "Virsaišu ūdenskrituma taka",
+      "lon": 22.54209,
+      "lat": 57.09328,
+      "type": "taka"
+    },
+    {
+      "title": "Vikmestes taka",
+      "lon": 24.8227603,
+      "lat": 57.1790199,
+      "type": "taka"
+    },
+    {
+      "title": "Viesatas upesloku taka",
+      "lon": 22.9720596,
+      "lat": 56.8236003,
+      "type": "taka"
+    },
+    {
+      "title": "Vedzes dabas taka",
+      "lon": 25.43373,
+      "lat": 56.95766,
+      "type": "taka"
+    },
+    {
+      "title": "Valguma mākslas",
+      "lon": 23.31532,
+      "lat": 56.99007,
+      "type": "taka"
+    },
+    {
+      "title": "Valguma baskāju taka",
+      "lon": 23.31575,
+      "lat": 56.98946,
+      "type": "taka"
+    },
+    {
+      "title": "Ukru gārša",
+      "lon": 23.2103455067,
+      "lat": 56.3798781727,
+      "type": "taka"
+    },
+    {
+      "title": "Tērvetes dabas parks",
+      "lon": 23.37283,
+      "lat": 56.48766,
+      "type": "taka"
+    },
+    {
+      "title": "Slokas ezera dabas taka",
+      "lon": 23.54637,
+      "lat": 56.95731,
+      "type": "taka"
+    },
+    {
+      "title": "Sēra dīķu taka",
+      "lon": 23.46959,
+      "lat": 56.96515,
+      "type": "taka"
+    },
+    {
+      "title": "Žagare Ozo takas",
+      "lon": 23.21444,
+      "lat": 56.35123,
+      "type": "taka"
+    },
+    {
+      "title": "Ziemassvētku kauju taka",
+      "lon": 23.70139,
+      "lat": 56.82956,
+      "type": "taka"
+    }
+  ]
